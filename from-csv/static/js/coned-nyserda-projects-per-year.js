@@ -1,0 +1,29 @@
+Highcharts.chart('container', {
+    chart: {
+        type: 'column'
+    },
+    data: {
+        enablePolling: false,
+        csvURL: window.location.origin + '/data/coned-nyserda-projects-per-year.csv'
+    },
+    title: {
+        text: '<b>Con Edison and NYSERDA Projects per Year</b>'
+    },
+    subtitle: {
+        text: 'Source: Con Edison SIR Inventory, NYSERDA DER Map'
+    },
+    credits: {
+        enabled: false
+    },
+    yAxis: {
+        title: {
+            text: 'Project Count'
+        }
+    }, // End chart style
+
+    // series: [{
+    //     colors: ['#7EB6EA', '#396096', '#2679B2', '#A7CEE2'],
+    //     colorByPoint: true,
+    // }]
+
+});
