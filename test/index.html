@@ -10,8 +10,8 @@
     <title>NYC Energy Storage Project Tracking Portal</title>
     <!-- Stylesheets & Fonts -->
     <link rel="icon" type="image/png" href="images/favicon.png">
-    <link href="css/plugins.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="static/css/plugins.css" rel="stylesheet">
+    <link href="static/css/style.css" rel="stylesheet">
 </head>
 <!-- END HEAD -->
 
@@ -26,7 +26,7 @@
             <div class="header-inner">
                 <div class="container">
                 	<!-- LOGO -->
-                    <div id="logo"><a href="index.html"><span class="logo-default">Smart DG Hub</span><span class="logo-dark">Smart DG Hub</span></a> </div>
+                    <div id="logo"><a href="index.html"><span class="logo-default">NYC ESS Portal</span><span class="logo-dark">NYC ESS Portal</span></a> </div>
                     <!-- Navigation Responsive Trigger-->
                     <div id="mainMenu-trigger"> <a class="lines-button x"><span class="lines"></span></a> </div>
                     <!-- End Navigation Responsive Trigger-->
@@ -38,28 +38,38 @@
                               <ul>
                                 <!-- Home -->
                                 <li><a href="index.html">Overview</a></li>
-
                                 <!-- Reporting -->
                                 <li class="dropdown"><a href="#">Reporting</a>
-                                <ul class="dropdown-menu">
-                                <!-- Market reports-->
-                                <li class="dropdown-submenu"><a href="#">Market Reports</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Quarterly Reports</a></li>
-                                    <li><a href="#">Monthly Breakdowns</a></li>
-                                    <li><a href="#">Archive</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Permitting reports -->
-                                            <li class="dropdown-submenu"><a href="#">Technical Assistance</a>
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="#">TA Dashboard</a></li>
-                                                    <li><a href="#">Frequently Asked Questions</a></li>
-                                                    <li><a href="#">Archive</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
+                                  <ul class="dropdown-menu">
+                                    <!-- Interconnection reports-->
+                                    <li class="dropdown-submenu"><a href="reporting-interconnection-reports.html">Interconnection</a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="#">Con Edison</a></li>
+                                        <li><a href="nyserda-projects-fixed.html">NYSERDA (Fixed)</a></li>
+                                        <li><a href="nyserda-projects-responsive.html">NYSERDA (Responsive)</a></li>
+                                        <li><a href="#">NYISO</a></li>
+                                      </ul>
                                     </li>
+                                    <!-- Market reports-->
+                                    <li class="dropdown-submenu"><a href="reporting-interconnection-reports.html">Market Reports</a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="reporting-facility-types.html">Facility Types</a></li>
+                                        <li><a href="reporting-power-capacities.html">Other</a></li>
+                                        <li><a href="#">Other</a></li>
+                                      </ul>
+                                    </li>
+                                    <!-- Technical Assistance reports -->
+                                    <li class="dropdown-submenu"><a href="#">Technical Assistance</a>
+                                      <ul class="dropdown-menu">
+                                        <li><a href="#">TA Dashboard</a></li>
+                                        <li><a href="#">Frequently Asked Questions</a></li>
+                                        <li><a href="#">Archive</a></li>
+                                      </ul>
+                                    </li>
+                                    <!-- End Technical Assistance dropdown -->
+                                  </ul>
+                                </li>
+                                <!-- End dropdown -->
 
                                     <!-- Project Map -->
                                     <li><a href="map.html">Project Map</a></li>
@@ -71,7 +81,7 @@
                                           <li><a href="zoning-matrix.html">NYC Battery Zoning Matrix</a></li>
                                           <li><a href="critical-facility-solar-evaluator.html">Critical Facility Solar + Evaluator</a></li>
                                           <li><a href="webinars.html">Webinars and Presentations</a></li>
-                                          <li><a href="timeline.html">History of Work Timeline</a></li>
+                                          <li><a href="timeline.html">NYC ESS Milestones Timeline</a></li>
                                           <li><a href="guides.html">Other Guidance Documents</a></li>
                                           <li><a href="faq.html">FAQs</a></li>
                                         </ul>
@@ -84,7 +94,7 @@
                                     <li class="dropdown"><a href="#">User</a>
                                         <ul class="dropdown-menu">
                                         	<li><a href="#">Settings</a></li>
-                                            <li><a href="#">Sign out</a></li>
+                                            <li><a href="login.html">Sign in</a></li>
                                         </ul>
                                     </li>
                                     <!-- End User -->
@@ -108,7 +118,7 @@
                 <div class="bg-overlay"></div>
                 <div class="container">
                     <div class="slide-captions text-left text-light">
-                        <h2>In order to combat climate change and meet NYC's 2025 energy storage goals,</h2>
+                        <h2>In order to combat climate change and meet NYC's 2025 energy storage goals</h2>
                         <p class="lead">the <b>Sustainable CUNY Smart DG Hub</b> has teamed with the <b>NYC Mayor's Office of Sustainability</b> (MOS), the <b>NYC Fire Department</b> (FDNY), <b>Department of Buildings</b> (DOB), and <b>Con Edison</b> to provide real-time progress tracking of all energy storage projects in the Five Boroughs.</p>
                         <button type="button" class="btn"><span class="btn-label"></span>Learn More</button>
                         <button type="button" class="btn btn-light">More info</button>
@@ -121,29 +131,15 @@
             	<div class="bg-overlay"></div>
                 <div class="container">
                     <div class="slide-captions text-left text-light">
-                        <span class="strong"><a href="#" class="business"><span class="business">Sustainable CUNY | Smart DG Hub</span></a>
+                        <span class="strong"><a href="#" class="business"><span class="business">Information here | More here</span></a>
                         </span>
-                        <h1>NYC Energy Storage Project Tracking Portal</h1>
+                        <h1>Project map and metrics</h1>
                         <a href="map.html"><button type="button" class="btn"><span class="btn-label"></span>Explore Projects</button></a>
                         <button type="button" class="btn btn-light">More info</button>
                     </div>
                 </div>
             </div>
 
-            <!-- Slide 3 -->
-            <div class="slide kenburns" data-bg-image="images/3.jpg">
-                <div class="bg-overlay"></div>
-                <div class="container">
-                    <div class="slide-captions text-left text-light">
-                        <span class="strong"><a href="#" class="business"><span class="business">Data Analytics</span></a>
-                        </span>
-                        <h1>Real-time project metrics</h1>
-                        <p>Helping to meet the City's 2030 energy goals</p>
-                        <button type="button" class="btn"><span class="btn-label"></span>View data</button>
-                        <button type="button" class="btn btn-light">More info</button>
-                    </div>
-                </div>
-            </div>
         </div>
         <!-- END SLIDER -->
 
@@ -258,7 +254,7 @@
                     <div class="col-lg-6">
 
                     	<!-- Column 1 -->
-                        <h4 class="m-b-20">We are making progress</h4>
+                        <h4 class="m-b-20">City Progress Metrics</h4>
 
                         <div class="p-progress-bar-container title-up small color">
                             <div class="p-progress-bar" data-percent="10" data-delay="0" data-type="%">
@@ -284,42 +280,26 @@
                             </div>
                         </div>
 
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="75" data-delay="400" data-type="%">
-                                <div class="progress-title">PHP</div>
-                            </div>
-                        </div>
                         <p class="lead">More info here.</p>
                      </div>
 
                     <!-- Column 2 -->
                     <div class="col-lg-6">
-                         <h4 class="m-b-20">Best services around</h4>
+                         <h4 class="m-b-20">Development process</h4>
                          <div class="accordion fancy radius clean">
                              <div class="ac-item ac-active">
-                                 <h5 class="ac-title"><i class="fa fa-rocket"></i>Suscipit laboriosam</h5>
-                                 <div class="ac-content ac-active">We’re POLO, a creative agency located in the heart of
-                                     New York city. A true story, that never been told!.
+                                 <h5 class="ac-title"><i class="fa fa-rocket"></i>Data Acquisition and Cleaning</h5>
+                                 <div class="ac-content ac-active">Information here.
                                      <br />
-                                     <br /> Fusce id mi diam, Neque porro quisquam est, qui dolorem ipsum quia dolor sit
-                                     amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora</div>
+                                     <br /> And more here</div>
                              </div>
                              <div class="ac-item">
-                                 <h5 class="ac-title"><i class="fa fa-heart"></i>Aliquam voluptatem</h5>
+                                 <h5 class="ac-title"><i class="fa fa-heart"></i>Database and Web Framework</h5>
                                  <div class="ac-content">Neque porro quisquam est, qui dolorem ipsum quia dolor sit
                                      amet, consectetur, adipisci velit, sed quia non numquam
                                      <br />
                                      <br /> Fusce id mi diam, Neque porro quisquam est, qui dolorem ipsum quia dolor sit
                                      amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora</div>
-                             </div>
-                             <div class="ac-item">
-                                 <h5 class="ac-title"><i class="fa fa-shopping-cart"></i>Labore et dolore</h5>
-                                 <div class="ac-content">Neque porro quisquam est, qui dolorem ipsum quia dolor sit
-                                     amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt
-                                     ut labore et dolore magnam aliquam quaerat voluptatem.
-                                     <br />
-                                     <br /> Fusce id mi diam, Neque porro quisquam est, qui dolorem ipsum quia dolor sit
-                                     amet</div>
                              </div>
                          </div>
                      </div>
@@ -331,166 +311,10 @@
          <!-- end: Know more -->
 
 
-         <!-- Contact -->
-         <section class="p-t-150 p-b-200" style="background-image:url(homepages/branding/images/background-4.png); background-position:71% 22%;">
-             <div class="container">
-                 <div class="row">
-                     <div class="col-lg-6">
-                         <div class="row">
-                             <div class="col-lg-12">
-                                 <h2 class="m-b-10">Get in Touch with Us</h2>
-                             </div>
-                             <div class="col-lg-6 m-b-30">
-                                 <address>
-                                     <strong>Headquarters:</strong><br>
-                                     795 Folsom Ave, Suite 600<br>
-                                     San Francisco, CA 94107<br>
-                                 </address>
-                                 <strong>Phone:</strong> (+1) 1234 56789
-                                 <br>
-                                 <strong>Fax:</strong> (+1) 12 3456 78910
-                                 <br>
-                                 <strong>Email:</strong> info@inspiro-media.com
-                             </div>
-                             <div class="col-lg-12 m-b-30">
-                                 <h4>Visit us on social media</h4>
-                                 <div class="social-icons social-icons-light social-icons-colored-hover">
-                                     <ul>
-                                         <li class="social-rss"><a href="#"><i class="fa fa-rss"></i></a></li>
-                                         <li class="social-facebook"><a href="#"><i class="fab fa-facebook-f"></i></a>
-                                         </li>
-                                         <li class="social-twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                         <li class="social-vimeo"><a href="#"><i class="fab fa-vimeo"></i></a></li>
-                                         <li class="social-youtube"><a href="#"><i class="fab fa-youtube"></i></a></li>
-                                         <li class="social-instagram"><a href="#"><i class="fab fa-instagram"></i></a>
-                                         </li>
-                                         <li class="social-pinterest"><a href="#"><i class="fab fa-pinterest"></i></a>
-                                         </li>
-                                         <li class="social-gplus"><a href="#"><i class="fab fa-google-plus-g"></i></a>
-                                         </li>
-                                         <li class="social-dribbble"><a href="#"><i class="fab fa-dribbble"></i></a>
-                                         </li>
-                                         <li class="social-skype"><a href="#"><i class="fab fa-skype"></i></a></li>
-                                         <li class="social-linkedin"><a href="#"><i class="fab fa-linkedin"></i></a>
-                                         </li>
-                                         <li class="social-behance"><a href="#"><i class="fab fa-behance"></i></a></li>
-                                         <li class="social-flickr"><a href="#"><i class="fab fa-flickr"></i></a></li>
-                                     </ul>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-
-                 </div>
-             </div>
-         </section>
-         <!-- end: Contact -->
-
-         <!-- Subscribe form -->
-         <section class="background-colored text-center p-t-80  p-b-30">
-             <div class="container">
-                 <div class="row justify-content-center">
-                     <div class="col-lg-5">
-                         <div class="widget widget-newsletter">
-                             <form class="widget-subscribe-form" action="include/subscribe-form.php" role="form" method="post" novalidate="novalidate">
-                                 <h3 class="text-light">Subscribe to our Newsletter</h3>
-
-
-
-
-                                 <div class="input-group mb-0">
-                                     <div class="input-group-prepend">
-                                         <span class="input-group-text"><i class="fa fa-paper-plane"></i></span>
-                                     </div>
-                                     <input type="email" required name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your Email">
-
-                                     <div class="input-group-append">
-                                         <button type="submit" id="widget-subscribe-submit-button" class="btn btn-light">Subscribe</button>
-                                     </div>
-
-                                 </div>
-
-
-
-
-
-                                 <small class="text-light">Stay informed on our latest news!</small>
-
-                             </form>
-
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </section>
-         <!-- end: Subscribe form -->
-
-         <!-- Footer -->
-         <footer id="footer">
-             <div class="footer-content">
-                 <div class="container">
-                     <div class="row">
-                         <div class="col-lg-5">
-                             <div class="widget">
-
-                                 <div class="widget-title">Polo HTML5 Template</div>
-                                 <p class="mb-5">Built with love in Fort Worth, Texas, USA<br>
-                                     All rights reserved. Copyright © 2019. INSPIRO.</p>
-                                 <a href="https://themeforest.net/item/polo-responsive-multipurpose-html5-template/13708923" class="btn btn-inverted">Purchase Now</a>
-                             </div>
-                         </div>
-                         <div class="col-lg-7">
-                             <div class="row">
-                                 <div class="col-lg-3">
-                                     <div class="widget">
-                                         <div class="widget-title">Reporting</div>
-                                         <ul class="list">
-                                             <li><a href="#">Market Reports</a></li>
-                                             <li><a href="#">TA Reports</a></li>
-                                         </ul>
-                                     </div>
-                                 </div>
-
-                                 <div class="col-lg-3">
-                                     <div class="widget">
-                                         <div class="widget-title">Project Map</div>
-                                         <ul class="list">
-                                             <li><a href="#">View Project Map</a></li>
-                                             <li><a href="#">Project List</a></li>
-                                         </ul>
-                                     </div>
-                                 </div>
-
-                                 <div class="col-lg-3">
-                                     <div class="widget">
-                                         <div class="widget-title">Contact</div>
-                                         <ul class="list">
-                                             <li><a href="#">About Us</a></li>
-                                             <li><a href="#">Documentation</a></li>
-                                             <li><a href="#">Partners</a></li>
-                                         </ul>
-                                     </div>
-                                 </div>
-                                 <div class="col-lg-3">
-                                     <div class="widget">
-                                         <div class="widget-title">User</div>
-                                         <ul class="list">
-                                             <li><a href="#">Settings</a></li>
-                                             <li><a href="#">Sign out</a></li>
-                                         </ul>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-
-
-                     </div>
-                 </div>
-             </div>
              <div class="copyright-content">
                  <div class="container">
-                     <div class="copyright-text text-center">&copy; 2020 Smart DG Hub. All Rights Reserved.<br>
-                        <a href="//www.smartdghub.org" target="_blank">Sustainable CUNY</a> </div>
+                     <div class="copyright-text text-center">&copy; 2020 Copyright here. All Rights Reserved.<br>
+                        <a href="//www.smartdghub.org" target="_blank">Company link here.</a> </div>
                  </div>
              </div>
          </footer>
@@ -502,11 +326,11 @@
      <!-- Scroll top -->
      <a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
      <!--Plugins-->
-     <script src="js/jquery.js"></script>
-     <script src="js/plugins.js"></script>
+     <script src="static/js/jquery.js"></script>
+     <script src="static/js/plugins.js"></script>
 
      <!--Template functions-->
-     <script src="js/functions.js"></script>
+     <script src="static/js/functions.js"></script>
 
 </body>
 
