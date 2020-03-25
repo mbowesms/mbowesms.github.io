@@ -1,0 +1,21 @@
+nyserda_facility_id,facility_name,address,city,state,zip,Latitude,Longitude,power_kw,energy_kwh,category,subcategory,zone
+422,Marcus Garvey Apartments,353 Chester St,Brooklyn,NY,11212,40.663061,-73.90979200000001,300.0,1200.0,Residential,Multifamily,J - New York City
+635,Glenwood - Liberty Plaza,10 Liberty St,New York,NY,10005,40.707395,-74.01032632,100.0,400.0,Residential,Multifamily,J - New York City
+636,Glenwood - Emerald Green,320 W 38th St,New York,NY,10018,40.7550922,-73.9952269,100.0,400.0,Residential,Multifamily,J - New York City
+637,Glenwood - Barclay Tower,10 Barclay St,New York,NY,10007,40.712267700000005,-74.0113292,225.0,2000.0,Residential,Multifamily,J - New York City
+638,Glenwood - The Brittany,1775 York Ave,New York,NY,10128,40.780186900000004,-73.9467671,100.0,400.0,Residential,Multifamily,J - New York City
+639,Glenwood - The Barclay,1755 York Ave,New York,NY,10128,40.779688,-73.9468434,100.0,400.0,Residential,Multifamily,J - New York City
+640,Glenwood - Paramount Tower,240 E 39th St,New York,NY,10016,40.7480689,-73.97671329999999,100.0,400.0,Residential,Multifamily,J - New York City
+642,Glenwood - Crystal Green,330 W 39th St,New York,NY,10018,40.7557917,-73.9950857,125.0,300.0,Residential,Multifamily,J - New York City
+643,Glenwood - The Bristol,300 E 56th St,New York,NY,10022,40.758173,-73.9674227,100.0,400.0,Residential,Multifamily,J - New York City
+644,Glenwood - The Lucerne,350 E 79th St,New York,NY,10075,40.772356200000004,-73.9555065,100.0,400.0,Residential,Multifamily,J - New York City
+645,Glenwood - Grand Tier,1930 Broadway,New York,NY,10023,40.772450899999995,-73.98399792,100.0,400.0,Residential,Multifamily,J - New York City
+646,Glenwood - Briar Hill,600 W 246th St,Bronx,NY,10471,40.8920729,-73.91254332,125.0,200.0,Residential,Multifamily,J - New York City
+647,Glenwood - Hawthorn Park,160 W 62nd St,New York,NY,10023,40.772079600000005,-73.9883334,125.0,500.0,Residential,Multifamily,J - New York City
+648,Glenwood - The Fairmont,300 E 75th St,New York,NY,10021,40.7704084,-73.95880090000001,125.0,300.0,Residential,Multifamily,J - New York City
+650,7-Eleven,58-20 Francis Lewis Blvd,Flushing,NY,11364,40.744961700000005,-73.7791882,27.2,96.0,Food Sales,Convenience Store,J - New York City
+651,UPS Distribution Center,643 W 43rd St,New York,NY,10036,40.7624392,-73.9998984,153.0,288.0,Warehouse and Storage,Distribution or Shipping Center,J - New York City
+681,Red Hook Recreation Center,155 Bay St,Brooklyn,NY,11232,40.6724801,-74.0039382,6.0,21.0,Public Assembly,Recreation,J - New York City
+750,Brooklyn Army Terminal,140 58th St,Brooklyn,NY,11220,40.645504100000004,-74.0260959,100.0,720.0,Manufacturing,Miscellaneous,J - New York City
+938,Con Edison BQDM Utility Sided Solution,,Ozone Park,NY,11416,40.684625,-73.849582,2000.0,12000.0,Offsite Resource,Utility Support,J - New York City
+981,Via Verde,700 Brook Ave,Bronx,NY,10455,40.818977000000004,-73.912336,18.0,144.0,Residential,Multifamily,J - New York City

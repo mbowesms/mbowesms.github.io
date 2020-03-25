@@ -1,0 +1,39 @@
+nyiso_id,developer,Project Name,ir_date,power_kw,type,borough,zone,substation
+522,NYC Energy LLC,NYC Energy,2015-12-16,79.9,ES,Manhattan,J,Hudson Avenue East 138kV
+674,"Helix Ravenswood, LLC",Vernon Battery Storage I,2017-10-24,10,ES,Queens,J,Vernon Substation
+675,"Helix Ravenswood, LLC",Vernon Battery Storage II,2017-10-24,10,ES,Queens,J,Vernon Substation
+692,"Consolidated Edison Company of New York, Inc.",Astoria Storage on Demand,2018-02-07,15,ES,Queens,J,North Queens Substation
+697,"Helix Ravenswood, LLC",Ravenswood Energy Storage 1,2018-03-09,129,ES,Queens,J,Rainey - Farragut 345kV
+698,"Helix Ravenswood, LLC",Ravenswood Energy Storage 2,2018-03-09,129,ES,Queens,J,Vernon-Rainey 138kV
+700,"Able Grid Energy Solutions, LLC",Robinson Grid,2018-03-13,300,ES,Brooklyn,J,Gowanus Substation 345kV
+742,"Consolidated Edison Co. of NY, Inc.",Astoria Storage on Demand,2018-07-05,1.5,ES,Queens,J,North Queens Substation
+786,"Ravenswood Development, LLC",Ravenswood Energy Storage,2018-12-20,187,ES,Queens,J,Rainey - Farragut 345kV
+815,Bayonne Energy Center,Bayonne Energy Center III,2019-04-05,49.8,ES,Brooklyn,J,Gowanus Substation 345kV
+822,Astoria Generating Company LP,Narrows Generating Barge Battery Energy Storage,2019-04-15,58,ES,Brooklyn,J,Narrows Barge Feeder 23162
+826,NRG Astoria Storage LLC,Astoria Energy Storage 1,2019-04-18,66,ES,Queens,J,North Queens 27kV Bus
+827,NRG Arthur Kill Storage LLC,Arthur Kill Energy Storage 1,2019-04-22,15,ES,Staten Island,J,Fresh Kills 13.8kV
+829,NRG Arthur Kill Storage LLC,Arthur Kill Energy Storage 2,2019-04-24,60,ES,Staten Island,J,Arthur Kill 138kV
+830,NRG Astoria Storage LLC,Astoria Energy Storage 2,2019-04-26,79.9,ES,Queens,J,Astoria West 138kV Substation
+834,"Astoria Generating Company, LP",Parking Lot Battery Energy Storage,2019-05-07,79,ES,Queens,J,Astoria West Substation 138kV
+835,"Astoria Generating Company, LP",Dock Battery Energy Storage,2019-05-07,56.3,ES,Queens,J,Astoria West Substation 138kV
+836,"Astoria Generating Company, LP",Dock Battery Energy Storage 2,2019-05-07,56.3,ES,Queens,J,Astoria East Substation 138kV
+837,"Astoria Generating Company, LP",Parking Lot Battery Energy Storage 2,2019-05-07,79,ES,Queens,J,Astoria East Substation 138kV
+838,NRG Astoria Storage LLC,Astoria Energy Storage 3,2019-05-09,20,ES,Queens,J,Astoria East 138kV Substation
+839,NRG Astoria Storage LLC,Astoria Energy Storage 4,2019-05-09,20,ES,Queens,J,Astoria West 138kV Substation
+840,Hecate Grid Swiftsure LLC,Swiftsure Energy Storage,2019-05-09,650,ES,Staten Island,J,Fresh Kills 345kV Substation
+845,"sPower Development Company, LLC",Bloom Energy Storage Center,2019-05-20,120,ES,Brooklyn,J,Farragut 345kV Substation
+846,"sPower Development Company, LLC",Rescue Energy Storage Center,2019-05-20,300,ES,Manhattan,J,East 13th Street 138kV Substation
+847,"sPower Development Company, LLC",Chelsea Energy Storage Center,2019-05-20,300,ES,Manhattan,J,West 49th St Substation 345kV
+891,"Energy Storage Resources, LLC",Meredith Woods,2019-06-24,19.2,ES,Manhattan,J,Baron Blvd
+902,"sPower Development Company, LLC",Yacht Club Energy Storage,2019-08-16,300,ES,Manhattan,J,Gowanus 345kV
+903,"sPower Development Company, LLC",Goethals Energy Storage,2019-08-16,300,ES,Manhattan,J,Goethals 345kV
+904,"Agilitas Energy, LLC",South Conduit Avenue Energy Storage,2019-08-20,10,ES,Manhattan,J,South Conduit Ave
+905,"Agilitas Energy, LLC",Liberty Avenue Energy Storage,2019-08-20,10,ES,Manhattan,J,Liberty Ave
+906,NRG Arthur Kill Storage LLC,Arthur Kill Energy Storage 2,2019-08-28,20,ES,Manhattan,J,Fresh Kills Substation
+907,174 Power Global,Harlem River Yard,2019-09-04,116,ES,Manhattan,J,Hell Gate 138kV
+908,NRG Astoria Storage LLC,Astoria Energy Storage 5,2019-09-12,20,ES,Queens,J,North Queens Substation 27kV
+926,"Enel Energy Storage Holdings, LLC",Enel NYPA Astoria,2019-10-18,100,ES,Queens,J,Astoria 138 kV substation
+928,JERA Americas Inc.,Willow Bay Energy Storage,2019-10-21,40,ES,Staten Island,J,Fox Hills Substation 33kV
+930,"Astoria Generating Co., LP",Astoria BES to 27kV North Queens,2019-10-25,15,ES,Queens,J,North Queens Substation 27kV
+931,Hanwha Energy USA Holdings d/d/a/ 174 Power Global,Astoria Energy Storage,2019-10-28,100,ES,Queens,J,Astoria Substation 138kV
+934,Saturn Energy Storage LLC,Astoria BESS,2019-10-31,70,ES,Queens,J,Astoria West Substation 138 kV

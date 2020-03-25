@@ -1,0 +1,23 @@
+nyserda_project_id,nyserda_system_id,nyserda_facility_id,facility_name,project_name,commercial_operation_date,zone,technology,power_kw,energy_kwh,cooling_tonh,developer,value_streams,nyserda_funded
+567,620,635,Glenwood - Liberty Plaza,,2016-08-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,True
+568,621,636,Glenwood - Emerald Green,,2016-08-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,True
+569,622,637,Glenwood - Barclay Tower,,2013-06-01,J - New York City,Energy Storage,225.0,2000.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+570,623,638,Glenwood - The Brittany,,2016-08-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,True
+571,624,639,Glenwood - The Barclay,,2016-08-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,True
+572,625,640,Glenwood - Paramount Tower,,2015-07-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,True
+573,409,422,Marcus Garvey Apartments,,2017-06-01,J - New York City,Energy Storage,300.0,1200.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed BQDM; Demand Charge Reduction,
+575,627,642,Glenwood - Crystal Green,,2017-12-01,J - New York City,Energy Storage,125.0,300.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+576,628,643,Glenwood - The Bristol,,2016-01-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+577,629,644,Glenwood - The Lucerne,,2017-01-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+578,630,645,Glenwood - Grand Tier,,2017-01-01,J - New York City,Energy Storage,100.0,400.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+579,631,646,Glenwood - Briar Hill,,2017-01-01,J - New York City,Energy Storage,125.0,200.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+580,632,647,Glenwood - Hawthorn Park,,2017-12-01,J - New York City,Energy Storage,125.0,500.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+581,633,648,Glenwood - The Fairmont,,2017-12-01,J - New York City,Energy Storage,125.0,300.0,,"Enel X (fka Demand Energy, EnerNOC)",Con Ed Demand Mgt Program; Demand Charge Reduction,
+583,636,650,7-Eleven,7-Eleven,2013-10-01,J - New York City,Energy Storage,27.0,96.0,,ENGIE Storage (fka Green Charge),Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting; EV Charging,
+584,637,651,UPS Distribution Center,UPS A,2014-10-01,J - New York City,Energy Storage,51.0,96.0,,ENGIE Storage (fka Green Charge),Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,True
+585,637,651,UPS Distribution Center,UPS B,2014-10-01,J - New York City,Energy Storage,51.0,96.0,,ENGIE Storage (fka Green Charge),Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,
+586,637,651,UPS Distribution Center,UPS C,2014-10-01,J - New York City,Energy Storage,51.0,96.0,,ENGIE Storage (fka Green Charge),Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,
+615,666,681,Red Hook Recreation Center,Red Hook Recreation Center,2015-01-01,J - New York City,Energy Storage,6.0,21.0,,Global Green,Coupled with Distr. Gen.; Resiliency,
+694,737,750,Brooklyn Army Terminal,Brooklyn Army Terminal Demo,2014-04-01,J - New York City,Energy Storage,100.0,720.0,,Princeton Power Systems,Demand Response Programs; Resiliency,
+898,933,938,Con Edison BQDM Utility Sided Solution,,2018-11-01,J - New York City,Energy Storage,2000.0,12000.0,,Consolidated Edison Solutions,Con Ed BQDM; Utility Peak Reduction,
+945,978,981,Via Verde,Via Verde,2019-05-01,J - New York City,Energy Storage,18.0,144.0,,Bright Power,Coupled with Distr. Gen.; Demand Charge Reduction; Resiliency,

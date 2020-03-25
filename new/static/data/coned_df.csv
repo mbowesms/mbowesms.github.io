@@ -1,0 +1,80 @@
+developer,con_ed_id,borough,zipcode,substation,power_kw,application_date,final_loa_date,project_complete
+Raiden Electric,MC-468401,Brooklyn,10019,Newtown,5000,2020-01-29,,No
+SunPower Corp.,MC-468591,Queens,11430,Brownsville_2,2500,2020-01-29,,No
+SunPower Corp.,MC-468599,Queens,11430,Brownsville_2,2500,2020-01-29,,No
+SunPower Corp.,MC-468327,Queens,10007,Brownsville_2,1200,2020-01-28,,No
+"SunPower, Corp.",MC-468321,Queens,10007,Brownsville_2,2250,2020-01-28,,No
+"Raiden Electric, LLC",MC-467658,Brooklyn,10019,Brownsville_1,5000,2020-01-24,,No
+"Raiden Electric, LLC",MC-466894,Brooklyn,10019,Bruckner,250,2020-01-20,,No
+Sustainable Energy,MC-466914,Queens,11213,Glendale,2550,2020-01-20,,No
+"Raiden Electric, LLC",MC-464857,Brooklyn,10019,Water St,4000,2020-01-08,,No
+"Raiden Electric, LLC",MC-464985,Brooklyn,10019,Water St,4800,2020-01-08,,No
+"Raiden Electric, LLC",MC-464898,Brooklyn,10019,Water St,4800,2020-01-08,,No
+"Raiden Electric, LLC",MC-464534,Queens,10019,Newtown,4800,2020-01-06,,No
+"Raiden Electric, LLC",MC-463594,Queens,10019,Newtown,4800,2019-12-30,,No
+"Borrego Solar Systems, Inc.",MC-461596,Staten Island,10309,WOODROW,5000,2019-12-16,,No
+"Ashlawn Energy, LLC",MC-461253,Brooklyn,11223,Bensonhurst_1,2,2019-12-12,,No
+"Borrego Solar Systems, Inc.",MC-459202,Staten Island,10314,FRESH_KILLS,5000,2019-12-02,,No
+"Borrego Solar Systems, Inc.",MC-459186,Staten Island,10309,WOODROW,5000,2019-12-02,,No
+"Borrego Solar Systems, Inc.",MC-459197,Staten Island,10309,WOODROW,5000,2019-12-02,,No
+Sunkeeper Solar,MC-458340,Staten Island,10007,FRESH_KILLS,4250,2019-11-25,,No
+"Ashlawn Energy, LLC",MC-457674,Brooklyn,11223,Bensonhurst_1,2,2019-11-21,,No
+"Raiden Electric, LLC",MC-457044,Brooklyn,10019,Greenwood,4800,2019-11-19,,No
+Sunkeeper Solar,MC-455484,Staten Island,10007,Fresh_Kills,4250,2019-11-11,,No
+"Ameresco, Inc.",MC-453648,Queens,11433,Jamaica,2200,2019-11-01,,No
+Siemens Smart Infrastructure,MC-453796,Manhattan,10001,W_42_St_1,2000,2019-11-01,,No
+"Raiden Electric, LLC",MC-451612,Queens,10019,Glendale,4800,2019-10-22,,No
+"Raiden Electric, LLC",MC-451035,Brooklyn,10019,Bensonhurst_2,2400,2019-10-18,,No
+Raiden Electric LLC,MC-449964,Brooklyn,11222,Brownsville_1,2400,2019-10-14,,No
+"Raiden Electric, LLC",MC-449962,Brooklyn,10019,Brownsville_1,2400,2019-10-14,,No
+"Raiden Electric, LLC",MC-449903,Brooklyn,10019,Brownsville_1,2400,2019-10-14,,No
+"Raiden Electric, LLC",MC-449556,Brooklyn,10019,Brownsville_1,1600,2019-10-11,,No
+"Raiden Electric, LLC",MC-449058,Brooklyn,10019,Brownsville_1,1600,2019-10-09,,No
+Agilitas Energy,MC-447192,Staten Island,10306,WAINWRIGHT,4000,2019-10-01,,No
+Raiden Electric LLC,MC-444784,Brooklyn,10019,Brownsville_1,4800,2019-09-20,,No
+Radien Electric,MC-444783,Brooklyn,10019,Brownsville_1,4800,2019-09-20,,No
+Radien Electric,MC-442415,Brooklyn,10019,Brownsville_1,4800,2019-09-10,,No
+"Radien Electric, LLC",MC-442492,Brooklyn,10019,Water_St,4800,2019-09-10,,No
+Enel X,MC-441920,Brooklyn,10001,Water_St,5000,2019-09-09,,No
+"Borrego Solar Systems, Inc.",MC-439569,Staten Island,10309,Fresh_Kills,5000,2019-08-26,,No
+"Raiden Electric, LLc",MC-438569,Brooklyn,10019,Water_St,2400,2019-08-21,,No
+Agilitas Energy,MC-437571,Bronx,10466,Parkchester_2,1600,2019-08-15,,No
+"Radien Electric, LLC",MC-436201,Brooklyn,11211,Brownsville_1,4800,2019-08-08,,No
+Raiden Electric,MC-435961,Brooklyn,11211,Water_St,4800,2019-08-07,,No
+Raiden Electric,MC-434988,Brooklyn,11222,Water_St,4950,2019-08-02,,No
+Bright Power,MC-434750,Brooklyn,10005,Plymouth_St,18,2019-08-01,,No
+Raiden Electric,MC-432194,Brooklyn,11222,Water_St,4950,2019-07-19,,No
+Raiden Electric,MC-432199,Brooklyn,11222,Water_St,4950,2019-07-19,,No
+Sustainable Energy LLC,MC-430568,Queens,11213,Glendale,250,2019-07-11,,No
+Enel X,MC-398718,Brooklyn,10001,Plymouth_St,800,2019-01-25,,No
+"EnerNOC, Inc.",MC-372959,Brooklyn,10001,Brownsville_2,2475,2018-09-14,2019-07-01,Yes
+DB Engineering,MC-370794,Staten Island,10017,WAINWRIGHT,1000,2018-09-05,,No
+EnerNOC,MC-363559,Manhattan,10001,E_75_St,125,2018-07-31,,No
+EnerNOC,MC-353101,Manhattan,10001,W_65_St_2,125,2018-06-05,,No
+EnerNOC,MC-352787,Brooklyn,10001,Brownsville_2,2475,2018-06-04,2019-07-01,Yes
+DB Engineering,MC-345023,Staten Island,10017,Fresh_Kills,1000,2018-04-25,,No
+Bright Power,MC-323347,Queens,10005,Jamaica,18,2018-01-05,,No
+DB Engineerong,MC-319212,Bronx,10017,Parkchester_2,1000,2017-12-08,,No
+Green Power Solutions,MC-297318,Bronx,10471,Sherman_Creek,133,2017-08-18,2018-11-29,Yes
+Demand Energy Networks,MC-286577,Manhattan,11040,W_65_St_2,125,2017-06-27,2017-12-19,Yes
+Demand Energy Networks,MC-286574,Manhattan,11040,E_75_St,125,2017-06-27,2017-12-19,Yes
+Demand Energy Networks,MC-282402,Manhattan,10018,W_42_St_2,125,2017-06-06,2017-12-19,Yes
+UniEnergy Technologies LLC,MC-272556,Bronx,10461,Parkchester_2,100,2017-04-18,,No
+Demand Energy,MC-252671,Bronx,11040,Sherman_Creek,125,2017-01-04,2018-10-03,Yes
+Bright Power,MC-252446,Bronx,10455,Bruckner,18,2017-01-03,2018-10-23,Yes
+Demand Energy Networks,MC-210555,Manhattan,11040,Hell_Gate,100,2016-06-14,,No
+Demand Energy Networks,MC-196280,Brooklyn,10538,Brownsville_1,300,2016-03-10,2017-06-23,Yes
+Demand Energy Networks,MC-111541,Manhattan,11040,W_65_St_2,100,2014-11-18,2019-01-02,Yes
+Demand Energy Networks,MC-111552,Manhattan,11040,Hell_Gate,100,2014-11-18,2016-08-02,Yes
+Demand Energy Networks,MC-111548,Manhattan,11040,E_63_St_1,100,2014-11-18,2018-02-01,Yes
+Demand Energy Networks,MC-107924,Manhattan,11040,Hell_Gate,100,2014-10-29,2016-08-02,Yes
+Demand Energy Networks,MC-95992,Manhattan,11040,W_42_St_1,100,2014-08-22,2016-08-02,Yes
+Demand Energy Networks,MC-95997,Manhattan,11040,E_75_St,200,2014-08-22,,No
+Demand Energy Networks,MC-95990,Manhattan,11040,Seaport_2,100,2014-08-22,2016-08-02,Yes
+Demand Energy Networks,MC-93294,Manhattan,10016,E_36_St,100,2014-08-07,2015-07-07,Yes
+Green Charge Networks,MC-88593,Manhattan,10036,W_50_St,300,2014-07-14,2015-04-08,Yes
+Urban Electric Power,1334879,Manhattan,10031,W_110_St_1,100,2013-08-26,2014-03-31,Yes
+Green Charge Networks,1233462,Queens,11377,Newtown,50,2013-04-24,2012-10-29,Yes
+Green Charge Networks LLC,1320309,Queens,11358,Corona_2,50,2012-12-09,2014-02-01,Yes
+Hitachi,1345615,Brooklyn,11220,Greenwood,100,2012-10-05,2013-10-30,Yes
+Demand Energy Networks,1312777,Manhattan,10007,Leonard_St_2,200,2012-05-13,2013-06-13,Yes

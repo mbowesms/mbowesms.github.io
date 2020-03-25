@@ -1,0 +1,70 @@
+<html>
+<head>
+
+	<!-- Jquery and Highcharts -->
+    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+
+
+</head>
+
+
+<!-- BODY -->
+<body>
+
+
+	<!-- Main container-->
+	<div id="container" style="width:100%; height:400px;"></div>
+
+	<!-- Highcharts script -->
+  		<script>
+		document.addEventListener('DOMContentLoaded', function () {
+        var myChart = Highcharts.chart('container', {
+            chart: {
+                type: 'bar'
+            },
+            title: {
+                text: 'Installations by Facility Type'
+
+            },
+
+            legend: {
+            	enabled: false
+            },
+
+            credits: {
+              enabled: false
+            },
+
+            yAxis: {
+              title: 'disabled'
+            },
+
+            xAxis: {
+                categories: ['Residential', 'Commercial', 'Utility', 'Other'],
+            },
+
+            series: [{
+                data: [26, 12, 4]
+            }]
+        });
+    });
+
+
+	var chart1; // globally available
+    document.addEventListener('DOMContentLoaded', function() {
+        chart1 = Highcharts.stockChart('container', {
+            rangeSelector: {
+                selected: 1
+            },
+            series: [{
+                name: 'USD to EUR',
+                data: usdtoeur // predefined JavaScript array
+           }]
+       });
+    });
+	</script>
+
+</body>
+
+</html>

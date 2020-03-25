@@ -1,0 +1,23 @@
+developer,con_ed_id,borough,zipcode,substation,power_kw,application_date,final_loa_date,project_complete
+"EnerNOC, Inc.",MC-372959,Brooklyn,10001,Brownsville_2,2475,2018-09-14,2019-07-01,Yes
+EnerNOC,MC-352787,Brooklyn,10001,Brownsville_2,2475,2018-06-04,2019-07-01,Yes
+Green Power Solutions,MC-297318,Bronx,10471,Sherman_Creek,133,2017-08-18,2018-11-29,Yes
+Demand Energy Networks,MC-286577,Manhattan,11040,W_65_St_2,125,2017-06-27,2017-12-19,Yes
+Demand Energy Networks,MC-286574,Manhattan,11040,E_75_St,125,2017-06-27,2017-12-19,Yes
+Demand Energy Networks,MC-282402,Manhattan,10018,W_42_St_2,125,2017-06-06,2017-12-19,Yes
+Demand Energy,MC-252671,Bronx,11040,Sherman_Creek,125,2017-01-04,2018-10-03,Yes
+Bright Power,MC-252446,Bronx,10455,Bruckner,18,2017-01-03,2018-10-23,Yes
+Demand Energy Networks,MC-196280,Brooklyn,10538,Brownsville_1,300,2016-03-10,2017-06-23,Yes
+Demand Energy Networks,MC-111541,Manhattan,11040,W_65_St_2,100,2014-11-18,2019-01-02,Yes
+Demand Energy Networks,MC-111552,Manhattan,11040,Hell_Gate,100,2014-11-18,2016-08-02,Yes
+Demand Energy Networks,MC-111548,Manhattan,11040,E_63_St_1,100,2014-11-18,2018-02-01,Yes
+Demand Energy Networks,MC-107924,Manhattan,11040,Hell_Gate,100,2014-10-29,2016-08-02,Yes
+Demand Energy Networks,MC-95992,Manhattan,11040,W_42_St_1,100,2014-08-22,2016-08-02,Yes
+Demand Energy Networks,MC-95990,Manhattan,11040,Seaport_2,100,2014-08-22,2016-08-02,Yes
+Demand Energy Networks,MC-93294,Manhattan,10016,E_36_St,100,2014-08-07,2015-07-07,Yes
+Green Charge Networks,MC-88593,Manhattan,10036,W_50_St,300,2014-07-14,2015-04-08,Yes
+Urban Electric Power,1334879,Manhattan,10031,W_110_St_1,100,2013-08-26,2014-03-31,Yes
+Green Charge Networks,1233462,Queens,11377,Newtown,50,2013-04-24,2012-10-29,Yes
+Green Charge Networks LLC,1320309,Queens,11358,Corona_2,50,2012-12-09,2014-02-01,Yes
+Hitachi,1345615,Brooklyn,11220,Greenwood,100,2012-10-05,2013-10-30,Yes
+Demand Energy Networks,1312777,Manhattan,10007,Leonard_St_2,200,2012-05-13,2013-06-13,Yes
