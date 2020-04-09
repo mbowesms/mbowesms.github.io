@@ -1,0 +1,46 @@
+.mega-menu {
+  height: 80px;
+  color: black;
+}
+.logo {
+  font-size: 40px;
+  font-weight: 600;
+  color: black;
+  display: inline-block;
+  position: initial;
+  padding: 30px;
+}
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  padding: 6px;
+}
+nav li {
+  display: inline-block;
+  list-style: none;
+  padding: 24px 20px 20px 20px;
+}
+
+nav li a {
+  color: black;
+}
+
+.mega-menu-item:hover .mega-menu-dropdown {
+  display: block;
+  visibility: visible;
+}
+
+.mega-menu-dropdown {
+  display: none;
+  visibility: hidden;
+  position: absolute;
+  width: 100%;
+  top: 70px;
+  left: 0;
+  background-color: white;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 10;
+  transition: all .3s ease;
+}

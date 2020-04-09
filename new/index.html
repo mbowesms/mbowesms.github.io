@@ -10,111 +10,98 @@
     <title>NYC Energy Storage Project Tracking Portal</title>
     <!-- Stylesheets & Fonts -->
     <link rel="icon" type="image/png" href="images/favicon.png">
-    <link href="static/css/plugins.css" rel="stylesheet">
+    <!-- To fix the style issue -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.0/css/bootstrap.min.css" integrity="sha256-/ykJw/wDxMa0AQhHDYfuMEwVb4JHMx9h4jD4XvHqVzU=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" integrity="sha256-PHcOkPmOshsMBC+vtJdVr5Mwb7r0LkSVJPlPrp/IMpU=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
+    <!-- <link href="static/css/plugins.css" rel="stylesheet"> -->
     <link href="static/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="static/css/mega-menu.css">
 </head>
 <!-- END HEAD -->
 
 <!-- BODY -->
 <body>
+    <!-- Mega Menu -->
+    <div class="mega-menu">
+      <span class="logo">Smart DG Hub</span>
+      <nav>
+        <ul>
+          <!-- Home -->
+          <li class="mega-menu-item"><a href="index.html">Overview</a></li>
+          <!-- Reporting -->
+          <li class="mega-menu-item"><a href="#">Reporting</a>
+            <ul class="mega-menu-dropdown">
+              <!-- Interconnection reports-->
+              <li><a href="#">Projects</a>
+                <ul>
+                  <li><a href="coned-projects-dw.html">Con Edison Projects </a></li>
+                  <li><a href="nyserda-projects-responsive.html">NYSERDA Projects</a></li>
+                  <li><a href="nyserda-projects-ig.html">NYSERDA Projects (Infogram)</a></li>
+                  <li><a href="cuny-master-list.html">CUNY Database</a></li>
+                </ul>
+              </li>
+              <!-- Market reports-->
+              <li><a href="reporting-interconnection-reports.html">Market Reports</a>
+                <ul>
+                  <li><a href="quarterly-report.html">Q1 Energy Storage Report</a></li>
+                  <li><a href="reporting-power-capacities.html">Other</a></li>
+                  <li><a href="#">Other</a></li>
+                </ul>
+              </li>
+              <!-- Technical Assistance reports -->
+              <li><a href="#">Technical Assistance</a>
+                <ul>
+                  <li><a href="#">TA Dashboard</a></li>
+                  <li><a href="#">Archive</a></li>
+                </ul>
+              </li>
+              <!-- End Technical Assistance dropdown -->
+              <!-- Web Statistics -->
+              <li><a href="#">Web Stats</a>
+                <ul>
+                  <li><a href="web-stats.html">Monthly Web Stats Report</a></li>
+                  <li><a href="#">Archive</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <!-- End dropdown -->
+
+          <!-- Project Map -->
+          <li class="mega-menu-item"><a href="map.html">Project Map</a></li>
+
+          <!-- Resources -->
+          <li class="mega-menu-item"><a href="resources.html">Resources</a>
+            <ul class="mega-menu-dropdown">
+              <li><a href="#nyc-outdoor-permitting-guide">NYC Outdoor Li-ion Permitting Guide</a></li>
+              <li><a href="zoning-matrix.html">NYC Battery Zoning Matrix</a></li>
+              <li><a href="critical-facility-solar-evaluator.html">Critical Facility Solar + Evaluator</a></li>
+              <li><a href="webinars.html">Webinars and Presentations</a></li>
+              <li><a href="timeline.html">NYC ESS Milestones Timeline</a></li>
+              <li><a href="guides.html">Other Guidance Documents</a></li>
+              <li><a href="faq.html">FAQs</a></li>
+            </ul>
+          </li>
+
+          <!-- Contact -->
+          <li><a href="contact.html">Contact</a></li>
+
+          <!-- User -->
+          <li class="mega-menu-item"><a href="#">User</a>
+            <ul class="mega-menu-dropdown">
+              <li><a href="#">Settings</a></li>
+              <li><a href="login.html">Sign in</a></li>
+            </ul>
+          </li>
+          <!-- End User -->
+        </ul>
+      </nav>
+    </div>
+    <!-- End Mega Menu -->
 
     <!-- BODY INNER -->
     <div class="body-inner">
-
-        <!-- NAVBAR -->
-        <header id="header" data-transparent="true" data-fullwidth="true" class="dark submenu-light">
-            <div class="header-inner">
-                <div class="container">
-                	<!-- LOGO -->
-                    <div id="logo"><a href="index.html"><span class="logo-default">Smart DG Hub</span><span class="logo-dark">Smart DG Hub</span></a> </div>
-                    <!-- Navigation Responsive Trigger-->
-                    <div id="mainMenu-trigger"> <a class="lines-button x"><span class="lines"></span></a> </div>
-                    <!-- End Navigation Responsive Trigger-->
-
-                    <!-- NAV BUTTONS -->
-                    <div id="mainMenu">
-                    	<div class="container">
-                          <nav>
-                              <ul>
-                                <!-- Home -->
-                                <li><a href="index.html">Overview</a></li>
-                                <!-- Reporting -->
-                                <li class="dropdown"><a href="#">Reporting</a>
-                                  <ul class="dropdown-menu">
-                                    <!-- Interconnection reports-->
-                                    <li class="dropdown-submenu"><a href="#">Projects</a>
-                                      <ul class="dropdown-menu">
-                                        <li><a href="coned-projects-dw.html">Con Edison Projects </a></li>
-                                        <li><a href="nyserda-projects-responsive.html">NYSERDA Projects</a></li>
-                                        <li><a href="nyserda-projects-ig.html">NYSERDA Projects (Infogram)</a></li>
-                                        <li><a href="cuny-master-list.html">CUNY Database</a></li>
-                                      </ul>
-                                    </li>
-                                    <!-- Market reports-->
-                                    <li class="dropdown-submenu"><a href="reporting-interconnection-reports.html">Market Reports</a>
-                                      <ul class="dropdown-menu">
-                                        <li><a href="quarterly-report.html">Q1 Energy Storage Report</a></li>
-                                        <li><a href="reporting-power-capacities.html">Other</a></li>
-                                        <li><a href="#">Other</a></li>
-                                      </ul>
-                                    </li>
-                                    <!-- Technical Assistance reports -->
-                                    <li class="dropdown-submenu"><a href="#">Technical Assistance</a>
-                                      <ul class="dropdown-menu">
-                                        <li><a href="#">TA Dashboard</a></li>
-                                        <li><a href="#">Archive</a></li>
-                                      </ul>
-                                    </li>
-                                    <!-- End Technical Assistance dropdown -->
-                                    <!-- Web Statistics -->
-                                    <li class="dropdown-submenu"><a href="#">Web Stats</a>
-                                        <ul class="dropdown-menu">
-                                          <li><a href="web-stats.html">Monthly Web Stats Report</a></li>
-                                          <li><a href="#">Archive</a></li>
-                                        </ul>
-                                      </li>
-                                  </ul>
-                                </li>
-                                <!-- End dropdown -->
-
-                                    <!-- Project Map -->
-                                    <li><a href="map.html">Project Map</a></li>
-
-                                    <!-- Resources -->
-                                    <li class="dropdown"><a href="resources.html">Resources</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#nyc-outdoor-permitting-guide">NYC Outdoor Li-ion Permitting Guide</a></li>
-                                            <li><a href="zoning-matrix.html">NYC Battery Zoning Matrix</a></li>
-                                            <li><a href="critical-facility-solar-evaluator.html">Critical Facility Solar + Evaluator</a></li>
-                                            <li><a href="webinars.html">Webinars and Presentations</a></li>
-                                            <li><a href="timeline.html">NYC ESS Milestones Timeline</a></li>
-                                            <li><a href="guides.html">Other Guidance Documents</a></li>
-                                            <li><a href="faq.html">FAQs</a></li>
-                                        </ul>
-                                    </li>
-
-                                    <!-- Contact -->
-                                    <li><a href="contact.html">Contact</a></li>
-
-                                    <!-- User -->
-                                    <li class="dropdown"><a href="#">User</a>
-                                        <ul class="dropdown-menu">
-                                        	<li><a href="#">Settings</a></li>
-                                            <li><a href="login.html">Sign in</a></li>
-                                        </ul>
-                                    </li>
-                                    <!-- End User -->
-
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-                    <!-- END NAV BUTTONS -->
-
-                </div>
-            </div>
-        </header>
-        <!-- END NAVBAR -->
 
         <!-- Slider -->
         <div id="slider" class="inspiro-slider slider-halfscreen dots-creative">
@@ -171,8 +158,8 @@
                     <div class="col-lg-5 m-b-60">
                         <h4>ABOUT</h4>
                         <h3>In order to combat climate change and meet New York City's 2030 energy storage goals, </h3>
-                        <p class="lead">the Sustainable CUNY Smart DG Hub has teamed with the NYC Mayor's Office of Sustainability (MOS), 
-                            NYC Fire Department (FDNY), NYC Department of Buildings (DOB) and Con Edison to provide real-time progress 
+                        <p class="lead">the Sustainable CUNY Smart DG Hub has teamed with the NYC Mayor's Office of Sustainability (MOS),
+                            NYC Fire Department (FDNY), NYC Department of Buildings (DOB) and Con Edison to provide real-time progress
                             tracking of all energy storage projects in the Five Boroughs.</p>
                         <a href="#services" class="btn btn-dark btn-outline btn-rounded">Learn more</a>
                     </div>
