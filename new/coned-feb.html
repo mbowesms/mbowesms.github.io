@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEAD -->
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Document title -->
+    <title>NYC Energy Storage Project Tracking Portal - Overview</title>
+    <!-- Stylesheets & Fonts -->
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link href="static/css/plugins.css" rel="stylesheet">
+    <link href="static/css/style.css" rel="stylesheet">
+
+</head>
+<!-- END HEAD -->
+
+<!-- BODY -->
+<body>
+
+    <!-- BODY INNER -->
+    <div class="body-inner">
+
+        <!-- NAVBAR -->
+        <header id="header" data-transparent="false" data-fullwidth="true" class="light submenu-light">
+            <div class="header-inner">
+                <div class="container">
+                <!-- LOGO -->
+                    <div id="logo"><a href="index.html"><span class="logo-default">Smart DG Hub</span><span class="logo-dark">Smart DG Hub</span></a> </div>
+                    <!-- END LOGO -->
+
+                    <!--Navigation Responsive Trigger-->
+                    <div id="mainMenu-trigger"> <a class="lines-button x"><span class="lines"></span></a> </div>
+                    <!--End Navigation Responsive Trigger-->
+
+
+                    <!-- NAV BUTTONS -->
+                    <div id="mainMenu">
+                        <div class="container">
+                            <nav>
+                                <ul>
+                                    <!-- Home -->
+                                    <li><a href="index.html">Overview</a></li>
+
+                                    <!-- Reporting -->
+                                    <li class="dropdown"><a href="#">Reporting</a>
+                                        <ul class="dropdown-menu">
+                                            <!-- Market reports-->
+                                            <li class="dropdown-submenu"><a href="#">Market Reports</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="#">Quarterly Report</a></li>
+                                                    <li><a href="#">Monthly Breakdown</a></li>
+                                                    <li><a href="#">Report Archive</a></li>
+                                                </ul>
+                                            </li>
+                                            <!-- Permitting reports -->
+                                            <li class="dropdown-submenu"><a href="#">Technical Assistance</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="#">TA Dashboard</a></li>
+                                                    <li><a href="#">Frequently Asked Questions</a></li>
+                                                    <li><a href="#">TA Archive</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                    <!-- Project Map -->
+                                    <li><a href="map.html">Project Map</a></li>
+
+                                    <!-- Contact -->
+                                    <li><a href="contact.html">Contact</a></li>
+
+                                    <!-- User -->
+                                    <li class="dropdown"><a href="#">User</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">Settings</a></li>
+                                            <li><a href="#">Sign out</a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- End User -->
+
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <!-- END NAV BUTTONS -->
+
+                 </div>
+             </div>
+         </header>
+        <!-- END BODY HEADER -->
+
+        <!-- Main container -->
+        <div class="container">
+
+            
+<div id="highcharts-565e334a-5ece-47d1-b44a-fb3b466b1727"></div><script>
+    (function(){ var files = ["https://code.highcharts.com/stock/highstock.js","https://code.highcharts.com/highcharts-more.js","https://code.highcharts.com/highcharts-3d.js","https://code.highcharts.com/modules/data.js","https://code.highcharts.com/modules/exporting.js","https://code.highcharts.com/modules/funnel.js","https://code.highcharts.com/modules/annotations.js","https://code.highcharts.com/modules/accessibility.js","https://code.highcharts.com/modules/solid-gauge.js"],loaded = 0; if (typeof window["HighchartsEditor"] === "undefined") {window.HighchartsEditor = {ondone: [cl],hasWrapped: false,hasLoaded: false};include(files[0]);} else {if (window.HighchartsEditor.hasLoaded) {cl();} else {window.HighchartsEditor.ondone.push(cl);}}function isScriptAlreadyIncluded(src){var scripts = document.getElementsByTagName("script");for (var i = 0; i < scripts.length; i++) {if (scripts[i].hasAttribute("src")) {if ((scripts[i].getAttribute("src") || "").indexOf(src) >= 0 || (scripts[i].getAttribute("src") === "http://code.highcharts.com/highcharts.js" && src === "https://code.highcharts.com/stock/highstock.js")) {return true;}}}return false;}function check() {if (loaded === files.length) {for (var i = 0; i < window.HighchartsEditor.ondone.length; i++) {try {window.HighchartsEditor.ondone[i]();} catch(e) {console.error(e);}}window.HighchartsEditor.hasLoaded = true;}}function include(script) {function next() {++loaded;if (loaded < files.length) {include(files[loaded]);}check();}if (isScriptAlreadyIncluded(script)) {return next();}var sc=document.createElement("script");sc.src = script;sc.type="text/javascript";sc.onload=function() { next(); };document.head.appendChild(sc);}function each(a, fn){if (typeof a.forEach !== "undefined"){a.forEach(fn);}else{for (var i = 0; i < a.length; i++){if (fn) {fn(a[i]);}}}}var inc = {},incl=[]; each(document.querySelectorAll("script"), function(t) {inc[t.src.substr(0, t.src.indexOf("?"))] = 1; }); function cl() {if(typeof window["Highcharts"] !== "undefined"){var options={"title":{"text":"Con Edison Energy Storage Projects by Year","style":{"fontFamily":"Arial","color":"#333333","fontSize":"22px","fontWeight":"bold","fontStyle":"normal"},"align":"left","margin":30},"subtitle":{"text":"The total number of energy storage projects installed in New York City (NYISO Utility Zone J) has increased steadily over the past decade.","style":{"fontFamily":"Arial","color":"#666666","fontSize":"14px","fontWeight":"normal","fontStyle":"normal"},"align":"left","useHTML":false},"exporting":{},"chart":{"type":"column","polar":false,"style":{"fontFamily":"Arial","color":"#333","fontSize":"14px","fontWeight":"normal","fontStyle":"normal"},"marginBottom":50},"series":[{"name":"Total Projects","marker":{"enabled":false}}],"plotOptions":{"series":{"dataLabels":{"enabled":true,"style":{"color":"gray","fontSize":"12px","fontWeight":"regular","textOutline":"0px"}}},"column":{"marker":{"enabled":false},"groupPadding":0.1}},"data":{"csv":"\"Year\";\"Total Projects\"\n2012;1\n2013;3\n2014;5\n2015;7\n2016;11\n2017;14\n2018;18\n2019;23\n2020;25","googleSpreadsheetKey":false,"googleSpreadsheetWorksheet":false},"yAxis":[{"title":{"text":"","style":{"fontFamily":"Arial","color":"#666666","fontSize":"18px","fontWeight":"normal","fontStyle":"normal"}}}],"colors":["#1f77b4","#004d87","#0F2D4A","#7cb5ec"],"legend":{"itemStyle":{"fontFamily":"Arial","color":"#333333","fontSize":"12px","fontWeight":"bold","fontStyle":"normal","cursor":"pointer"},"itemHiddenStyle":{"fontFamily":"Arial","color":"#cccccc","fontSize":"18px","fontWeight":"normal","fontStyle":"normal"},"borderRadius":0,"borderWidth":0,"enabled":false},"credits":{"text":"Source: DPS Utility Interconnection Queue Data","href":"http://www3.dps.ny.gov/W/PSCWeb.nsf/All/286D2C179E9A5A8385257FBF003F1F7E","position":{"align":"right","y":-2,"x":-10},"style":{"fontSize":"11px"}},"xAxis":[{"title":{"style":{"fontFamily":"Arial","color":"#666666","fontSize":"18px","fontWeight":"normal","fontStyle":"normal"}},"labels":{"style":{"fontSize":"12px","cursor":"default"},"enabled":true}}],"pane":{"background":[]},"responsive":{"rules":[]},"tooltip":{"headerFormat":"<span style=\"font-size: 12px\">{point.key}</span><br/>"}};/*
+    // Sample of extending options:
+    Highcharts.merge(true, options, {
+        chart: {
+            backgroundColor: "#bada55"
+        },
+        plotOptions: {
+            series: {
+                cursor: "pointer",
+                events: {
+                    click: function(event) {
+                        alert(this.name + " clicked\n" +
+                              "Alt: " + event.altKey + "\n" +
+                              "Control: " + event.ctrlKey + "\n" +
+                              "Shift: " + event.shiftKey + "\n");
+                    }
+                }
+            }
+        }
+    });
+    */new Highcharts.Chart("highcharts-565e334a-5ece-47d1-b44a-fb3b466b1727", options);}}})();
+    </script>
+        
+        </div>
+        <!-- End main container -->
+
+     <!--Template functions-->
+     <script src="static/js/functions.js"></script>
+
+</body>
+
+</html>
