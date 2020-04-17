@@ -1,0 +1,304 @@
+﻿Queue Pos.,Owner/Developer,Project Name,Date of IR,SP (MW),WP (MW),Type/ Fuel,County,State,Z,Interconnection Point,Utility ,S,Last Update,Availability of Studies,FS Complete/ SGIA Tender,Proposed  In-Service,Proposed Initial-Sync,Proposed COD
+0276,"EDF Renewables Development, Inc.",Homer Solar Energy Center,1/30/08,90,90,S,Cortland,NY,C,Cortland - Fenner 115kV,NM-NG,9,11/30/19,"FES, SRIS",,11/2023,11/2023,12/2023
+0339,RG&E,Transmission Reinforcement,8/17/09,N/A,N/A,AC,Monroe,NY,B,Niagara - Kintigh 345kV,RG&E,12,4/30/19,SIS,N/A,08/2021,N/A,N/A
+0349,"Taylor Biomass Energy-Montgomery, LLC",Taylor Biomass,12/30/09,19,22.5,SW,Orange,NY,G,Maybrook - Rock Tavern 69kV,CHGE,12,12/31/17,"SRIS, FS",10/15/13,08/2020,N/A,04/2021
+0363,"Anbaric Development Partners, LLC",Poseidon Offshore,4/27/11,500,500,W,NY - Suffolk,NY,K,Ruland Rd. 138kV,LIPA,10,3/31/19,"FES, SRIS, FS",2/2/17,07/2020,11/2020,01/2021
+0372,"Dry Lots Wind, LLC",Dry Lots Wind,10/31/11,33,33,W,Herkimer,NY,E,Schuyler - Whitesboro 46kV,NM-NG,7,11/30/18,"FES, SIS",,11/2020,10/2020,12/2020
+0386,"Vermont Green Line Devco, LLC",Grand Isle Intertie,6/28/12,400,400,DC,Clinton,NY,D,"Plattsburgh 230kV-New Haven, VT 345kV",NYPA,6,11/30/18,"FES, SIS",,12/2023,N/A,N/A
+0387,"Cassadaga Wind, LLC",Cassadaga Wind,7/19/12,126,126,W,Chautauqua,NY,A,Dunkirk - Moon Station 115 kV,NM-NG,11,12/31/19,"FES, SRIS, FS",7/9/19,05/2020,05/2020,12/2020
+0393,"NRG Berrians East Development, LLC",Berrians East Replacement,10/16/12,94.2,57,D,Queens,NY,J,Astoria East Substation 138kV,CONED,11,12/31/19,"FES, SRIS, FS",7/9/19,07/2022,10/2022,02/2023
+0396,"Baron Winds, LLC",Baron Winds,11/30/12,300,300,W,Steuben,NY,C,Hillside - Meyer 230kV,NYSEG,10,7/31/19,"FES, SRIS, FS",7/9/19,05/2020,05/2020,12/2020
+0396A,New York State Electric & Gas,Wood Street Transformer,12/14/12,N/A,N/A,AC,Putnam,NY,G,Wood St. 345/115kV,NYSEG,6,12/31/19,SIS,,12/2021,N/A,N/A
+0421,EDP Renewables North America LLC,Arkwright Summit,11/1/13,78.4,78.4,W,Chautauqua,NY,A,Dunkirk - Falconer 115 kV,NM-NG,14,7/31/19,"SRIS, FS",7/9/19,,,I/S
+0422,"NextEra Energy Resources, LLC",Eight Point Wind Energy Center,11/7/13,101.2,101.2,W,Steuben-Allegany,NY,C,Bennett 115kV,NYSEG,10,7/31/19,"FES, SRIS, FS",7/9/19,07/2020,07/2020,12/2020
+0429,Orange & Rockland,North Rockland Station,2/12/14,N/A,N/A,AC,Steuben,NY,G,Line Y88 345kV,ConEd,6,12/31/19,SIS,N/A,06/2021,N/A,N/A
+0430,H.Q. Energy Services U.S. Inc.,Cedar Rapids Transmission,3/5/14,N/A,N/A,AC,St. Lawrence,NY,D,Dennison - Alcoa 115kV,NM-NG,12,12/31/19,"SIS, FS",10/2/18,12/2020,N/A,N/A
+0444,"Cricket Valley Energy Center, LLC",Cricket Valley Energy Center II,6/18/14,1020,1132,CC,Dutchess,NY,G,Pleasant Valley - Long Mt. 345kV,ConEd,13,1/31/20,"SRIS, FS",7/9/19,12/2017,,03/2020
+0445,"Lighthouse Wind, LLC",Lighthouse Wind,6/30/14,201.3,201.3,W,Niagara,NY,A,AES Somerset Substation 345kV,NYSEG,7,8/31/17,"FES, SRIS",,08/2020,,12/2020
+0449,"Stockbridge Wind, LLC",Stockbridge Wind,8/13/14,72.6,72.6,W,Madison,NY,C,Whitman - Oneida 115kV,NM-NG,7,12/31/19,"FES, SRIS",,04/2023,05/2023,10/2023
+0458,"TDI-USA Holdings, Inc.",CH Interconnection,10/24/14,1000,1000,DC,Quebec-New York,NY,J,Astoria Annex Substation 345kV,NYPA,9,12/31/19,"FES, SRIS",,12/2022,12/2022,12/2022
+0461,Consolidated Edison Co. of NY,East River 1 Uprate,12/1/14,2,2,CT,New York,NY,J,East River Complex,ConEd,14,12/31/19,"SRIS, FS",7/9/19,,,I/S
+0462,Consolidated Edison Co. of NY,East River 2 Uprate,12/1/14,2,2,CT,New York,NY,J,East River Complex,ConEd,14,12/31/19,"SRIS, FS",7/9/19,,,I/S
+0465,Hudson Transmission Partners,Hudson Transmission NY to PJM,12/15/14,675,675,DC,New York,NY,J,W49th St 345kV - Bergen 230kV,ConEd,9,12/31/19,SIS,,03/2021,N/A,N/A
+0466,"Atlantic Wind, LLC",Bone Run Wind,12/16/14,132,132,W,Cattaraugus,NY,A,Falconer - Homer Hill 115kV,NM-NG,7,1/31/18,"FES, SRIS",,11/2021,11/2021,12/2021
+0467,Shoreham Solar Commons LLC,Shoreham Solar,12/22/14,25,25,S,Suffolk,NY,K,Ridge - Wildwood 69kV,LIPA,14,7/31/19,"SRIS, FS",7/9/19,,,I/S
+0468,Apex Clean Energy LLC,Galloo Island Wind,12/30/14,110.4,110.4,W,Oswego,NY,C,Hammermill - Wine Creek 115kV,NM-NG,8,7/31/19,"FES, SRIS",,10/2019,,12/2019
+0474,EDP Renewables North America,North Slope Wind,1/30/15,200,200,W,Franklin-Clinton,NY,D,Patnode 230kV,NYPA,7,3/31/17,"FES, SRIS",,10/2021,10/2021,10/2021
+0477,Riverhead Solar Farm LLC,Riverhead Solar,2/18/15,20,20,S,Suffolk,NY,K,Edwards Substation 138kV,LIPA,14,5/31/19,"FES, SIS, FS",3/16/18,,,I/S
+0487,"LI Energy Storage System, LLC",Far Rockaway Battery Storage,3/9/15,20,20,ES,Nassau,NY,K,Far Rockaway Substation 69kV,LIPA,9,9/30/19,"FES, SIS",,10/2021,11/2021,12/2021
+0495,Mohawk Solar LLC,Mohawk Solar,4/2/15,90.5,90.5,S,Montgomery,NY,F,St. Johnsville - Marshville 115kV,NM-NG,9,1/30/20,"FES, SRIS",,05/2021,06/2021,11/2021
+0496,"Renovo Energy Center, LLC",Renovo Energy Center,4/13/15,480,504,CC,Clinton,PA,C,Homer City - Mainsburg 345kV,NYSEG,8,12/31/19,"FES, SRIS",,09/2019,,06/2020
+0497,Invenergy Wind Development LLC,Bull Run Wind,4/24/15,303.6,303.6,W,Clinton,NY,D,Patnode 230kV,NYPA,7,9/30/18,"FES, SRIS",,,,12/2022
+0498,"ESC Tioga County Power, LLC",Tioga County Power,4/29/15,550,550,CC,Tioga,PA,C,Homer City - Mainsburg 345kV,NYSEG,8,12/31/19,"FES, SRIS",,06/2020,,05/2021
+0505,"Ball Hill Wind Energy, LLC",Ball Hill Wind,6/2/15,100,100,W,Chautauqua,NY,A,Dunkirk - Gardenville 230kV,NM-NG,11,1/31/20,"FES, SRIS, FS",7/9/19,09/2019,09/2019,12/2019
+0506,Empire State Connector Corp.,Empire State Connector,6/10/15,1000,1000,DC,Onondaga-New York,NY,"E, J",Marcy - Gowanus 345kV,NYPA/ConEd,7,8/31/19,"FES, SRIS",,10/2021,,01/2022
+0510,Bayonne Energy Center,Bayonne Energy Center II,8/3/15,120.4,129.4,D,Hudson,NJ,J,Gowanus Substation 345kV,ConEd,14,12/31/19,"SRIS, FS",7/9/19,,,I/S
+0513,Orangeville Energy Storage LLC,Orangeville,9/21/15,20,20,ES,Wyoming,NY,C,Stony Creek 230kV,NYSEG,10,1/31/19,"SIS, FS",1/29/18,10/2020,,12/2020
+0518,PPL Electric Utilities,Compass,10/27/15,N/A,N/A,AC,Rockland,NY,G,Lackawanna - Ramapo 345kV,ConEd,5,12/31/19,FES,,12/2023,N/A,N/A
+0519,Canisteo Wind Energy LLC,Canisteo Wind,11/2/15,290.7,290.7,W,Steuben,NY,C,Bennett 115kV,NYSEG,9,10/31/18,"FES, SRIS",,09/2020,09/2020,12/2020
+0520,EDP Renewables North America,Rolling Upland Wind,12/3/15,72.6,72.6,W,Madison,NY,E,County Line - Brothertown 115kV,NYSEG,7,3/31/18,"FES, SRIS",,07/2019,,10/2019
+0521,"Invenergy NY, LLC",Bull Run II Wind,12/15/15,145.4,145.4,W,Clinton,NY,D,"Patnode-Duley, Ryan-Platts 230kV",NYPA,7,11/30/18,"FES, SRIS",,12/2021,,12/2022
+0523,Dunkirk Power LLC,Dunkirk Unit 2,12/17/15,75,75,ST,Chautauqua,NY,A,Dunkirk 115kV,NM-NG,8,12/31/19,SRIS,,01/2020,,04/2020
+0524,Dunkirk Power LLC,Dunkirk Unit 3 & 4,12/17/15,370,370,ST,Chautauqua,NY,A,Dunkirk 230kV,NM-NG,8,12/31/19,SRIS,,01/2020,,04/2020
+0526,"Atlantic Wind, LLC",North Ridge Wind,12/23/15,100,100,W,St. Lawrence,NY,D,Malone - Colton 115kV,NM-NG,7,1/31/18,"FES, SRIS",,11/2020,11/2020,12/2020
+0531,Invenergy Wind Development LLC,Number 3 Wind Energy,1/11/16,105.8,105.8,W,Lewis,NY,E,Taylorville - Boonville 115kV,NM-NG,9,10/31/18,"FES, SRIS",,09/2020,09/2020,12/2020
+0535,"sPower Development Company, LLC",Riverhead Expansion,2/23/16,36,36,S,Suffolk,NY,K,Edwards Substation 138kV,LIPA,9,1/31/20,"FES, SRIS",,07/2021,08/2021,10/2021
+0540,AVANGRID,Connect NY Edic - PV,4/28/16,1000,1000,DC,Oneida-Dutchess,NY,"E, G",Edic - PV 345kV,NM-NG/NYSEG/ ConEd,6,12/31/19,SIS,,12/2020,,
+0541,AVANGRID,Connect NY Edic - Ramapo,4/28/16,1000,1000,DC,Oneida-Dutchess,NY,"E, G",Edic - Ramapo 345kV,NM-NG/NYSEG/ O&R,6,12/31/19,SIS,,12/2020,,
+0543,National Grid,Segment B Knickerbocker-PV,5/4/16,N/A,N/A,AC,Albany-Dutchess,NY,"F, G",Greenbush - PV 345kV,NM-NG/NYSEG/ CHGE/ConEd,9,12/31/19,SIS,,09/2022,,
+0545,"Delaware River Solar, LLC",Sky High Solar,5/10/16,20,20,S,Onondaga,NY,C,Tilden -Tully Center 115kV,NM-NG,10,2/29/20,"FES, SIS, FS",10/1/19,04/2021,04/01/21,05/2021
+0545A,"NextEra Energy Transmission New York, Inc.",Empire State Line Alt,5/17/16,N/A,N/A,AC,Niagara-Erie,NY,A,Dysinger - Stolle 345kV,NYPA/NYSEG,10,12/31/19,"SIS, FS",N/A,06/2022,N/A,N/A
+0546,"Atlantic Wind, LLC",Roaring Brook Wind,5/19/16,79.7,79.7,W,Lewis,NY,E,Chases Lake Substation 230kV,NM-NG,9,1/31/20,"FES, SRIS",,11/2020,11/2020,12/2020
+0556,"LS Power Grid New York, LLC",Segment A Double Circuit,7/6/16,N/A,N/A,AC,Oneida-Albany,NY,"E, F",Edic - New Scotland 345kV,NM-NG,9,12/31/19,SIS,,06/2020,N/A,N/A
+0560,"Atlantic Wind, LLC",Deer River Wind,7/8/16,100,100,W,Lewis,NY,E,Black River-Lighthouse Hill 115kV,NM-NG,9,7/31/19,"FES, SRIS",,09/2021,10/2021,12/2021
+0564,"Rock District Solar, LLC",Rock District Solar,7/25/16,20,20,S,Schoharie,NY,F,Sharon - Cobleskill 69kV,NM-NG,9,1/31/20,SIS,,01/2021,02/2021,04/2021
+0565,"Tayandenega Solar, LLC",Tayandenega Solar,7/25/16,20,20,S,Herkimer,NY,F,St. Johnsville - Inghams 115kV,NM-NG,9,12/31/19,SIS,,01/2021,02/2021,04/2021
+0566,New York Power Authority,MA 1 & 2 Rebuild,8/4/16,N/A,N/A,AC,St. Lawrence-Lewis,NY,"D, E",Moses & Adirondack 230kV,NYPA,6,12/31/19,SIS,,12/2022,N/A,N/A
+0570,Hecate Energy Albany 1 LLC,Albany County 1,8/17/16,20,20,S,Albany,NY,F,Long Lane - Lafarge 115kV,NM-NG,10,2/29/20,SIS,,05/2020,05/2020,06/2020
+0571,"Heritage Renewables, LLC",Heritage Wind,9/1/16,200.1,200.1,W,Genesee,NY,B,Lockport - Mortimer 115kV,NM-NG,9,12/31/19,"FES, SRIS",,07/2021,08/2021,10/2021
+0572,Hecate Energy Greene 1 LLC,Greene County 1,9/6/16,20,20,S,Greene,NY,G,Coxsackie - North Catskill 69kV,CHGE,10,2/29/20,SIS,,11/2020,11/2020,12/2020
+0573,Hecate Energy Greene 2 LLC,Greene County 2,9/6/16,10,10,S,Greene,NY,G,Coxsackie Substation 13.8kV,CHGE,10,2/29/20,SIS,,11/2020,11/2020,12/2020
+0574,"Atlantic Wind, LLC",Mad River Wind,9/16/16,450,450,W,Jefferson-Oswego,NY,E,Volney - Marcy 345kV,NM-NG,7,4/30/19,"FES, SRIS",,11/2021,11/2021,12/2021
+0575,"Little Pond Solar, LLC",Little Pond Solar,9/16/16,20,20,S,Rockland,NY,G,Mongaup - Shoemaker 69kV,O&R,9,12/31/19,"FES, SIS",,09/2020,10/2020,12/2020
+0577,"Greene County Energy Properties, LLC",Greene County Energy,9/20/16,20,20,S,Greene,NY,G,New Baltimore - Coxsackie 69 kV,CHGE,7,12/31/19,SIS,,12/2020,12/2020,12/2020
+0579,"Bluestone Wind, LLC",Bluestone Wind,9/21/16,124.2,124.2,W,Broome,NY,E,Afton - Stilesville 115kV,NYSEG,9,12/31/18,"FES, SRIS",,09/2020,09/2020,12/2020
+0580,Genesee County Economic Devel.,WNY STAMP,9/27/16,500,500,L,Genesee,NY,A,Kintigh/Niagara - Rochester 345kV,NYPA,6,12/31/18,SIS,,06/2020,N/A,NA
+0581,SED NY Holdings LLC,Hills Solar,10/6/16,20,20,S,Herkimer,NY,E,Fairfield - Inghams 115kV,NM-NG,10,2/29/20,"FES, SIS",,06/2020,06/2020,07/2020
+0584,SunEast Dog Corners Solar LLC,Dog Corners Solar,11/2/16,20,20,S,Cayuga,NY,C,Aurora Substation 34.5kV,NYSEG,10,1/31/20,"SIS, FS",9/24/18,06/2020,08/2020,08/2020
+0586,SED NY Holdings LLC,Watkins Rd Solar,11/8/16,20,20,S,Herkimer,NY,E,Watkins Rd - Ilion 115kV,NM-NG,10,2/29/20,"SIS, FS",,04/2020,04/2020,04/2020
+0589,"Duke Energy Renewables Solar, LLC",North Country Solar,12/2/16,15,15,S,Lewis,NY,E,Boonville 46kV Substation,NM-NG,9,9/30/19,"FES, SIS",,09/2020,09/2020,12/2020
+0590,"Duke Energy Renewables Solar, LLC",Scipio Solar,12/2/16,18,18,S,Cayuga,NY,C,Scipio 34.5kV Substation,NYSEG,10,12/31/19,"SIS, FS",5/22/19,09/2020,08/2020,11/2020
+0591,SED NY Holdings LLC,High Top Solar,12/2/16,20,20,S,Wyoming,NY,C,South Perry 34.5kV Substation,NYSEG,9,12/31/19,SIS,,07/2021,09/2021,11/2021
+0592,"Duke Energy Renewables Solar, LLC",Niagara Solar,12/2/16,20,20,S,Wyoming,NY,B,Bennington 34.5kV Substation,NYSEG,10,9/30/19,"SIS, FS",5/22/19,09/2020,08/2020,11/2020
+0594,"North Park Energy, LLC",NW Energy,12/29/16,60,60,ES,Wyoming,NY,C,Wethersfield Substation 230kV,NYSEG,9,1/31/20,SRIS,,10/2021,10/2021,12/2021
+0595,"North Park Energy, LLC",SW Energy,12/29/16,100,100,ES,Cattaraugus,NY,A,Five Mile Rd Substation 115kV,NM-NG,9,7/31/19,"FES, SRIS",,10/2021,10/2021,12/2021
+0596,Invenergy Wind Development LLC,Alle Catt II Wind,1/4/17,339.1,339.1,W,Cattaraugus,NY,A,Stolle Rd - Five Mile Rd 345kV,NM-NG,9,12/31/18,SRIS,,10/2021,10/2021,12/2021
+0597,Hecate Energy Greene County 3 LLC,Greene County 3,1/10/17,20,20,S,Greene,NY,G,North Catskill - Coxsackie 69kV,CHGE,9,7/31/19,SIS,,11/2020,11/2020,12/2021
+0598,Hecate Energy Albany 2 LLC,Albany County 2,1/10/17,20,20,S,Albany,NY,F,Long Lane - Lafarge 115kV,NM-NG,10,2/29/20,SIS,,05/2020,05/2020,06/2020
+0612,"Deepwater Wind South Fork, LLC",South Fork Wind Farm,2/14/17,96,96,W,Suffolk,NY,K,East Hampton 69kV,LIPA,9,11/30/19,SRIS,,01/2022,08/2022,11/2022
+0617,"North Park Energy, LLC",Watkins Glen Solar,3/27/17,50,50,S,Schuyler,NY,C,Bath - Montour Falls 115kV,NYSEG,9,11/30/19,SRIS,,09/2020,10/2020,12/2020
+0618,"North Park Energy, LLC",High River Solar,3/27/17,90,90,S,Schenectady,NY,F,Stoner - Rotterdam 115kV,NM-NG,9,4/30/19,SRIS,,09/2020,10/2020,11/2020
+0619,"North Park Energy, LLC",East Point Solar,3/27/17,50,50,S,Schoharie,NY,F,Sharon - Marshville 69kV,NM-NG,9,11/30/19,SRIS,,09/2021,10/2021,12/2021
+0620,"North Park Energy, LLC",North Side Solar,3/27/17,180,180,S,St. Lawrence,NY,D,Massena - Moses 230kV,NYPA,9,1/31/20,"FES, SRIS",,07/2022,09/2022,11/2022
+0621,"Blue Stone Solar Energy, LLC",Saugerties Solar,3/27/17,20,20,S,Ulster,NY,G,Saugerties - Woodstock 69kV,CHGE,10,12/31/19,"SIS, FS",8/21/19,10/2020,10/2020,12/2020
+0624,"Franklin Solar, LLC",Franklin Solar,4/11/17,150,150,S,Franklin,NY,D,Malone 115kV Substation,NM-NG,7,9/30/18,SRIS,,12/2020,12/2020,12/2020
+0629,"Silver Lake Solar, LLC",Silver Lake Solar,4/27/17,24.9,24.9,S,Wyoming,NY,C,South Perry 34.5kV Substation,NYSEG,9,1/31/20,"FES, SRIS",,07/2021,09/2021,11/2021
+0631,"Champlain Hudson Power Express, Inc.",NS Power Express,5/2/17,1000,1000,DC,Quebec - New York,NY,J,"New Scotland, Astoria Annex 345kV",NM-NG/NYPA,7,1/31/19,SRIS,,12/2021,12/2021,12/2021
+0632,GridAmerica Holdings Inc.,Alps - Berkshire,5/4/17,N/A,N/A,AC,Rensselaer,NY,F,Alps - Berkshire 345kV,NM-NG,6,2/28/19,SIS,,09/2021,N/A,N/A
+0637,Flint Mine Solar LLC,Flint Mine Solar,6/29/17,100,100,S,Greene,NY,G,"LaFarge - Pleasant Valley 115kV, Feura Bush - North Catskill 115kV",NM-NG,9,11/30/19,"FES, SRIS",,10/2021,10/2021,11/2021
+0638,"Pattersonville Solar Facility, LLC",Pattersonville,7/11/17,20,20,S,Montgomery,NY,F,Rotterdam - Meco 115kV,NM-NG,10,2/29/20,"FES, SIS",,08/2020,10/2020,10/2020
+0644,"Hecate Energy Columbia County 1, LLC",Columbia County 1,7/26/17,60,60,S,Columbia,NY,F,Craryville Substation 115kV,NYSEG,9,1/31/20,"FES, SRIS",,10/2021,10/2021,10/2021
+0649,"CR Fuel Cell, LLC",Clare Rose,8/3/17,13.9,13.9,FC,Suffolk,NY,K,William Floyd Substation 69kV,LIPA,9,10/31/19,"FES, SIS",,12/2020,12/2020,12/2020
+0650,"BRT Fuel Cell, LLC",Brookhaven Rail Terminal,8/3/17,18.5,18.5,FC,Suffolk,NY,K,W. Yaphank - Yaphank 69kV,LIPA,9,11/30/19,"FES, SIS",,04/2022,01/2022,05/2022
+0654,Renovo Energy Center LLC,Renovo Energy Center,8/11/17,N/A, N/A ,AC,Clinton,PA,C,Homer City - Mainsburg 345kV,NYSEG,9,8/31/19,SIS,,10/2020,N/A,N/A
+0666,Martin Rd Solar LLC,Martin Rd Solar,9/14/17,20,20,S,Machias,NY,A,Arcade - Five Mile 115kV,NM-NG,9,11/30/19,SIS,,09/2021,10/2021,10/2021
+0667,Bakerstand Solar LLC,Bakerstand Solar,9/14/17,20,20,S,Cattaraugus,NY,A,Machias - Maplehurst 34.5kV,NM-NG,10,2/29/20,SIS,,09/2022,10/2022,10/2022
+0668,"North Bergen Liberty Generating, LLC",Liberty Generating Alternative,9/15/17,1171,1172,CC,New York,NY,J,West 49th St Substation 345kV,ConEd,9,12/31/19,SRIS,,04/2023,04/2023,02/2024
+0669,SED NY Holdings LLC,Clay Solar,9/21/17,20,20,S,Clay,NY,C,Clay - Lockheed 115kV,NM-NG,9,12/31/19,"FES, SIS",,12/2020,11/2020,12/2020
+0670,SED NY Holdings LLC,Skyline Solar,9/21/17,20,20,S,Westmoreland,NY,E,Campus Rd - Clinton 46kV,NM-NG,9,12/31/19,"FES, SIS",,12/2020,11/2020,12/2020
+0671,East Coast Power LLC,Linden Cogen Uprate,9/25/17,32,23,CT,Union,NJ,J,Linden Cogen 345kV,ConEd,9,12/31/19,SRIS,,03/2023,05/2023,05/2023
+0678,"LI Solar Generation, LLC",Calverton Solar Energy Center,10/26/17,22.9,22.9,S,Suffolk,NY,K,Edwards Substation 138kV,LIPA,9,7/31/19,SRIS,,10/2020,11/2020,12/2020
+0679,"Anbaric Development Partners, LLC",New York City Offshore Wind,11/7/17,1200,1200,W,Kings,NY,J,Farragut 345kV,ConEd,3,4/30/19,,,07/2025,11/2025,12/2025
+0680,"Anbaric Development Partners, LLC",Long Island Offshore Wind,11/7/17,700,700,S,Suffolk,NY,K,Ruland Rd. 138kV,LIPA,5,1/31/20,FES,,07/2025,11/2025,12/2025
+0682,"Grissom Solar, LLC",Grissom Solar,10/18/19,20,20,S,Johnstown,NY,F,Ephratah - Florida 115kV,NM-NG,9,12/31/19,"FES, SIS",,05/2020,06/2020,12/2020
+0683,"KCE NY 2, LLC",KCE NY 2,1/18/18,200,200,ES,Montgomery,NY,G,Coldenham Substation 115kV,CHGE,9,1/31/20,SRIS,,05/2021,05/2021,06/2021
+0684,"ITC Lake Erie Connector, LLC",Lake Erie Connector,1/18/18,N/A,N/A,AC,Chautauqua,NY,A,S. Ripley 230kV,NM-NG,10,9/30/19,"SIS, FS",4/22/19,03/2024,N/A,N/A
+0686,Invenergy Solar Development North America LLC,Bull Run Solar Energy Center,1/26/18,170,170,S,Clinton,NY,D,Patnode - Duley 230kV,NYPA,7,5/31/19,SRIS,,10/2020,10/2020,12/2020
+0693,"Renovo Energy Center, LLC",Renovo Energy Center Uprate,2/13/18,515,548,CC,Clinton,PA,C,Homer City - Mainesburg 345kV,NYSEG,7,4/30/19,SRIS,,10/2020,11/2020,04/2021
+0694,"Sunset Hill Solar, LLC",Sunset Hill Solar,2/16/18,20,20,S,Albany,NY,G,New Baltimore - Westerlo NW 69 kV,CHGE,5,9/30/19,FES,,08/2020,07/2020,08/2020
+0695,"Deepwater Wind, LLC",South Fork Wind Farm II,2/16/18,40,40,W,Suffolk,NY,K,East Hampton 69kV,LIPA,9,11/30/19,SRIS,,01/2022,08/2022,12/2022
+0696,"Eagle Creek Hydro Power, LLC",Swinging Bridge Unit 3,3/21/18,1.2,1.2,H,Orange,NY,G,Swing Bridge 69 kV,O&R,12,5/31/19,,6/20/18,07/2019,07/2019,07/2019
+0697,"Helix Ravenswood, LLC",Ravenswood Energy Storage 1,3/9/18,129,129,ES,Queens,NY,J,Rainey - Farragut 345kV,ConEd,9,10/31/19,SRIS,,03/2022,12/2021,05/2022
+0698,"Helix Ravenswood, LLC",Ravenswood Energy Storage 2,3/9/18,129,129,ES,Queens,NY,J,Vernon-Rainey 138kV,ConEd,9,10/31/19,SRIS,,03/2022,12/2021,05/2022
+0699,"Helix Ravenswood, LLC",Ravenswood Gas,3/9/18,238.5,243.8,CT,Queens,NY,J,Rainey - Farragut 345kV,ConEd,7,12/31/19,SRIS,,03/2022,01/2022,06/2022
+0700,"Able Grid Energy Solutions, LLC",Robinson Grid,3/13/18,300,300,ES,Kings,NY,J,Gowanus Substation 345kV,ConEd,5,4/30/19,FES,,10/2020,11/2020,12/2020
+0701,"KCE NY 1, LLC",KCE NY 1,3/15/18,20,20,ES,Saratoga,NY,F,Luther - Forest Substation 34.5kV,NYSEG,14,12/31/19,,6/20/18,,,I/S
+0702,"Anbaric Development Partners, LLC",Long Island Offshore AC,3/15/18,800,800,W,Suffolk,NY,K,Ruland Rd. 138kV,LIPA,3,4/30/19,,,07/2025,11/2025,12/2025
+0703,"Anbaric Development Partners, LLC",New York City Offshore AC,3/15/18,800,800,W,Kings,NY,J,Farragut 345kV,ConEd,3,11/30/18,,,07/2025,11/2025,12/2025
+0704,"Bear Ridge Solar, LLC",Bear Ridge Solar,3/20/18,100,100,S,Niagara,NY,A,Mountain- Lockport 115kV,NM-NG,9,1/31/20,SRIS,,09/2022,10/2022,12/2022
+0706,"High Bridge Wind, LLC",High Bridge Wind,4/25/18,100.8,100.8,W,Chenango,NY,E,E. Norwich - Jennison 115kV,NYSEG,9,9/30/19,SRIS,,08/2021,09/2021,11/2021
+0709,"Alder Creek Solar, LLC",Alder Creek Solar,5/18/18,205,205,S,Oneida,NY,E,Chases Lake Ð Porter 230kV,NM-NG,5,12/31/19,FES,,07/2020,07/2020,12/2020
+0710,Invenergy Solar Development North America LLC,Horseshoe Solar,5/29/18,180,180,S,Livingston,NY,B,Golah Substation 115kV,NM-NG,5,9/30/19,FES,,10/2021,10/2021,12/2021
+0713,"EDF Renewables Development, Inc.",Edora B Solar Energy Center,6/1/18,20,20,S,Orange,NY,G,Hartley Substation 69kV,O&R,3,2/28/19,,,10/2021,10/2021,11/2021
+0715,"EDF Renewables Development, Inc.",Suffragette Solar Energy Center,6/1/18,20,20,S,Cayuga,NY,C,Hyatt Substation 34.5kV,NYSEG,9,2/29/20,"FES, SIS",,10/2021,10/2021,11/2021
+0716,"EDF Renewables Development, Inc.",Moraine Solar Energy Center,6/4/18,87.4,93.5,S,Allegany,NY,C,Moraine Substation 115kV,NYSEG,5,9/30/19,FES,,09/2021,09/2021,10/2021
+0717,"EDF Renewables Development, Inc.",Morris Ridge Solar Energy Center,6/4/18,177,177,S,Steuben,NY,C,South Perry - Meyer 230kV,NYSEG,5,9/30/19,FES,,09/2021,09/2021,10/2021
+0718,"Cortland Energy Center, LLC",Cortland Energy Center,6/7/18,50,50,S,Cortland,NY,C,Cortland - SUNY 115 kV,NM-NG,9,9/30/19,SRIS,,08/2022,09/2022,11/2022
+0719,"East Light Energy Center, LLC",East Light Energy Center,6/7/18,40,40,S,Montgomery,NY,F,Meco - Rotterdam 115 kV,NM-NG,8,10/31/19,SRIS,,08/2022,09/2022,11/2022
+0720,"North Light Energy Center, LLC",North Light Energy Center,6/7/18,80,80,S,Seneca,NY,C,Border City - Station 168 115 KV,NYSEG,9,9/30/19,SRIS,,08/2022,09/2022,11/2022
+0721,"Excelsior Energy Center, LLC",Excelsior Energy Center,6/7/18,280,280,S,Genesee,NY,A,N. Rochester-Niagara Falls 345 kV,NYPA,9,10/31/19,SRIS,,06/2022,08/2022,11/2022
+0722,"Empire State Solar, LLC",Manchester Solar,6/7/18,20,20,S,Ontario,NY,C,Station 168 34.5 kV line #704,RG&E,5,1/31/20,,,09/2020,10/2020,12/2020
+0730,"Darby Solar, LLC",CS Easton Solar 1,6/11/18,20,20,S,Washington,NY,F,Mohican - Schaghticoke 115kV,NM-NG,9,1/31/20,"FES, SIS",,01/2021,12/2020,03/2021
+0731,"Branscomb Solar, LLC",CS Easton Solar 2,6/11/18,20,20,S,Washington,NY,F,Battenkill - Eastover 115kV,NM-NG,9,11/30/19,"FES, SIS",,01/2021,12/2020,03/2021
+0734,ELP Ticonderoga Solar LLC,Ticonderoga Solar,6/12/18,20,20,S,Essex,NY,F,Ticonderoga 115kV - Republic Line 2,NM-NG,7,1/31/20,"FES, SIS",,04/2021,05/2021,05/2021
+0735,ELP Stillwater Solar LLC,ELP Stillwater Solar,6/12/18,20,20,S,Saratoga,NY,F,Luther Forest - Mohican 115kV,NM-NG,9,9/30/19,"FES, SIS",,07/2020,07/2020,08/2020
+0737,Equinor Wind US LLC,Empire Wind,6/12/18,816,816,W,New York,NY,J,Gowanus Substation 345kV,ConEd,9,9/30/19,SRIS,,06/2023,02/2024,12/2024
+0738,Equinor Wind US LLC,Empire Wind II,6/12/18,816,816,W,Suffolk,NY,K,Ruland Rd. Substation 138kV,LIPA,9,9/30/19,SRIS,,06/2023,02/2024,12/2024
+0740,Oakdale Battery Storage LLC,Oakdale Battery Storage,6/18/18,120,120,ES,Broome,NY,C,Oakdale Substation 115kV,NYSEG,5,2/28/19,,,07/2021,05/2021,08/2021
+0741,"Bluestone Wind, LLC",Bluestone Battery Storage,7/2/18,10,10,ES,Broome,NY,E,Afton - Stilesville 115kV,NYSEG,7,2/29/20,,,08/2020,10/2020,11/2020
+0742,"Consolidated Edison Co. of NY, Inc.",Astoria Storage on Demand,7/5/18,1.5,1.5,ES,Queens,NY,J,North Queens Substation,ConEd,5,9/30/19,,,12/2019,05/2020,06/2020
+0744,"Granada Solar, LLC",Magruder Solar,7/18/18,20,20,S,Ulster,NY,G,East Walden - Modena 115kV,CHGE,7,11/30/19,SIS,,11/2020,11/2020,12/2020
+0745,"Energy Storage Resources, LLC",Huckleberry Ridge Energy,7/25/18,100,100,ES,Orange,NY,G,Shoemaker-Westtown 69kV,O&R,5,1/31/19,,,03/2022,03/2022,04/2022
+0746,"Energy Storage Resources, LLC",Peconic River Energy Storage,7/30/18,150,150,ES,Suffolk,NY,K,Brookhaven - Sills 138kV,LIPA,9,1/31/20,SRIS,,02/2022,05/2022,05/2022
+0748,"Regan Solar, LLC",Grissom II Solar,8/9/18,20,20,S,Fulton,NY,F,Market Hill - Johnstown 69kV,NM-NG,9,1/31/20,SIS,,05/2020,06/2020,12/2020
+0751,"Calpine Mid Atlantic Development, LLC",Stony Brook Storage,8/14/18,24,24,ES,Suffolk,NY,K,8LR substation 69kV,LIPA,4,2/29/20,FES,,01/2021,03/2021,06/2021
+0754,"Anbaric Development Partners, LLC",New York Ocean Grid - Canal,8/20/18,800,800,W,Suffolk,NY,K,Canal Substation 138kV,LIPA,3,4/30/19,,,07/2025,11/2025,12/2025
+0755,"Anbaric Development Partners, LLC",New York Ocean Grid - Shoreham,8/20/18,800,800,W,Suffolk,NY,K,Shoreham Substation 138kV,LIPA,4,2/29/20,FES,,07/2025,11/2025,12/2025
+0756,"Rising Solar, LLC",Rising Solar II,8/24/18,20,20,S,Orange,NY,G,Sugarloaf Substation - 69kV,O&R,7,2/29/20,,,10/2019,10/2019,10/2019
+0758,"Sithe/Independence Power Partners, LP",Sithe Independence,9/6/18,9,27,CC,Oswego,NY,C,Sithe 345kV Substation,NM-NG,7,12/31/19,SRIS,,I/S,I/S,I/S
+0759,"KCE NY 6, LLC",KCE NY 6,9/6/18,20,20,ES,Erie,NY,A,Gardenville - Bethlehem Steel Wind 115kV Line #150,NM-NG,9,12/31/19,SIS,,9/2020,10/2020,10/2020
+0760,New York Power Authority,Moses-Adirondack,9/7/18,N/A,N/A,AC,St. Lawrence-Lewis,NY,"D, E",Moses - Adirondack 230kV,NYPA,5,12/31/19,,,12/2020,N/A,N/A
+0762,Invenergy Storage Development LLC,Riverhead Storage Energy Center,9/17/18,75,75,ES,Suffolk,NY,K,Brookhaven - Edwards Ave 138kV,LIPA,4,12/31/19,FES,,10/2021,10/2021,12/2021
+0764,Bay State Wind LLC,NY Wind Canal,9/28/18,440,440,W,Suffolk,NY,K,Canal Substation 138kV,LIPA,5,9/30/19,,,01/2023,05/2023,01/2024
+0765,Bay State Wind LLC,NY Wind Brookhaven,9/28/18,880,880,W,Suffolk,NY,K,Brookhaven 138kV,LIPA,5,6/30/19,,,01/2023,05/2023,01/2024
+0766,Bay State Wind LLC,NY Wind Holbrook,9/28/18,880,880,W,Suffolk,NY,K,Holbrook 138kV,LIPA,4,6/30/19,,,01/2023,05/2023,01/2024
+0767,Bay State Wind LLC,NY Wind Gowanus,9/28/18,1200,1200,W,New York,NY,J,Gowanus Substation 345kV,ConEd,3,6/30/19,,,01/2023,04/2024,05/2024
+0768,"Janis Solar, LLC",Janis Solar,10/1/18,20,20,S,Broome,NY,C,Willet 34.5kV,NYSEG,10,2/29/20,SIS,,12/2020,01/01/21,03/2021
+0769,New York Power Authority,North County Energy Storage,10/5/18,20,20,ES,Franklin,NY,D,Willis Substation 115kV,NYPA,5,6/30/19,,,04/2020,04/2020,04/2020
+0770,KCE NY8 LLC,KCE NY 8a,10/9/18,20,20,ES,Greene,NY,G,South Cairo Substation 13.2kV,CHGE,5,10/31/19,,,05/2020,05/2020,05/2020
+0774,"EDF Renewables Development, Inc.",Tracy Solar Energy Centre,10/18/18,119,119,S,Jefferson,NY,E,Thousand Island - Lyme 115kV,NM-NG,5,4/30/19,,,12/2022,12/2022,01/2023
+0775,"Puckett Solar, LLC",Puckett Solar,10/22/18,20,20,S,Chenango,NY,E,Chenango Forks Substation 34.5kV,NYSEG,7,2/29/20,SIS,,03/2020,03/2020,04/2020
+0776,Greenidge Generation LLC,Greenidge Load,10/22/18,N/A,N/A,L,Yates,NY,C,Greenidge 115kV,NYSEG,5,9/30/19,,,12/2019,N/A,N/A
+0777,"Community Energy Solar, LLC",White Creek Solar,11/1/18,135,135,S,Livingston,NY,B,Sta 82 - Sta 128 115kV,RG&E,5,4/30/19,,,12/2021,11/2021,12/2021
+0778,Astoria Generating Company LP,Gowanus Gas Turbine Facility Repowering,11/8/18,549,588,CT,Kings,NY,J,Gowanus Substation 345kV,ConEd,9,1/31/20,SRIS,,05/2024,05/2024,05/2024
+0779,Hecate Energy Gedney Hill LLC,Gedney Hill Solar,11/9/18,20,20,S,Albany,NY,G,New Baltimore - Westerlo 69kV,CHGE,5,1/31/20,FES,,03/2020,03/2020,04/2020
+0780,Hecate Energy Johnstown LLC,Johnstown Solar,11/9/18,20,20,S,Schenectady,NY,F,Stoner - Rotterdam 115kV,NM-NG,5,6/30/19,,,03/2020,03/2020,04/2020
+0781,New York Power Authority,Marcy South SSR Detection,12/3/18,N/A,N/A,AC,Delaware,NY,E,Fraser - Annex 345 kV Substation,NYPA,12,9/30/19,SIS,N/A,12/2019,N/A,N/A
+0782,Invenergy Solar Development North America LLC,Hornell Storage,12/4/18,20,20,ES,Steuben,NY,C,Bennett 34.5kV,NYSEG,5,9/30/19,,,10/2020,10/2020,12/2020
+0783,ConnectGen Chautauqua County LLC,South Ripley Solar,12/7/18,270,270,S,Chautauqua,NY,A,South Ripley Substation 230kV,NM-NG,5,1/31/20,FES,,09/2022,09/2022,11/2022
+0784,"High Bridge Wind, LLC",High Bridge Battery,12/11/18,5,5,ES,Chenango,NY,E,E. Norwich - Jennison 115kV,NYSEG,5,9/30/19,,,09/2021,10/2021,12/2021
+0785,ConnectGen Erie-Wyoming LLC,Erie-Wyoming County Solar,12/12/18,175,175,S,Wyoming,NY,C,Stolle Road - High Sheldon 230kV,NYSEG,3,5/31/19,,,09/2022,09/2022,11/2022
+0786,"Ravenswood Development, LLC",Ravenswood Energy Storage,12/20/18,187,187,ES,Queens,NY,J,Rainey - Farragut 345kV,ConEd,5,9/30/19,,,01/2021,10/2020,03/2021
+0787,"Levy Grid, LLC","Levy Grid, LLC",12/20/18,150,150,ES,Erie,NY,A,Gardenville Subsation 115kV,NM-NG,5,9/30/19,,,04/2021,04/2021,05/2021
+0788,"Atlantic Shores Offshore Wind Project 3, LLC",Atlantic Shores Offshore Wind 7,1/14/19,880,880,W,Nassau,NY,K,East Garden City 345kV Substation,LIPA,3,2/28/19,,,06/2025,08/2025,12/2025
+0789,"Atlantic Shores Offshore Wind Project 3, LLC (EDF)",Atlantic Shores Offshore Wind 8,1/14/19,880,880,W,Kings,NY,J,Gowanus Substation 345kV,ConEd,5,9/30/19,,,06/2025,08/2025,12/2025
+0790,"Atlantic Shores Offshore Wind Project 2, LLC (EDF)",Atlantic Shores Offshore Wind 9,1/14/19,880,880,W,Richmond,NY,J,Fresh Kills 345kV,ConEd,5,9/30/19,,,06/2025,08/2025,12/2025
+0791,Danskammer Energy LLC,Danskammer Energy Center,1/14/19,84.4,88.9,CC,Orange,NY,G,Danskammer 115kV Substation,CHGE,9,1/30/20,SRIS,,10/2023,10/2023,10/2023
+0792,"Anbaric Development Partners, LLC",Long Island Offshore Wind Connection,1/29/19,300,300,W,Suffolk,NY,K,Ruland Road 138kV Substation,LIPA,5,12/31/19,,,07/2025,11/2025,12/2025
+0800,"EDF Renewables Development, Inc.",Rich Road Solar Energy Center,2/20/19,240,240,S,St. Lawrence,NY,E,Moses - Adirondack 230kV,NYPA,3,9/30/19,,,11/2024,12/2024,12/2024
+0801,"Prattsburgh Wind, LLC",Prattsburgh Wind Farm,2/21/19,147,147,W,Steuben,NY,C,Stoney Ridge - Canadaigua 230kV,NYSEG,2,9/30/19,,,10/2022,11/2022,12/2022
+0802,"EDF Renewables Development, Inc.",Bunker Solar Energy Center,3/6/19,125,125,ES,Franklin,NY,D,Willis - Lyon Mt 115kV,NYSEG,3,9/30/19,,,11/2023,12/2023,12/2023
+0803,"Yonkers Grid, LLC","Yonkers Grid, LLC",3/11/19,200,200,ES,Westchester,NY,I,Dunwoodie - 138kV Bus,ConEd,3,9/30/19,,,04/2022,04/2022,05/2022
+0804,"KCE NY 10, LLC",KCE NY 10,3/22/19,20,20,ES,Erie,NY,A,Erie Substation 34.5kV,NYSEG,3,9/30/19,,,08/2020,08/2020,09/2020
+0805,"Oxbow Hill Solar, LLC",Oxbow Hill Solar,3/22/19,140,140,S,Madison,NY,C,Fenner - Whitman 115kV,NM-NG,3,12/31/19,,,08/2022,09/2022,09/2022
+0806,SED NY Holdings LLC,Limestone Solar,3/25/19,20,20,S,Fulton,NY,F,Stoner - Rotterdam 115kV,NM-NG,3,9/30/19,,,10/2021,11/2021,11/2021
+0807,SED NY Holdings LLC,Hilltop Solar,3/28/19,20,20,S,Rensselaer,NY,F,Eastover - Schaghticoke 115kV,NM-NG,5,9/30/19,,,10/2021,11/2021,11/2021
+0808,"Barrett Ridge Energy, LLC",Barrett Ridge Energy,4/1/19,107,107,ES,Orange,NY,G,Sugar Loaf - Vernon 115kV,CHGE,2,5/31/19,,,03/2022,01/2022,03/2022
+0809,"Seven Creek Energy, LLC",Seven Creek Energy,4/1/19,240,240,ES,Chautauqua,NY,A,South Ripley Substation 230kV,NM-NG,2,5/31/19,,,03/2022,01/2022,03/2022
+0811,Hecate Energy Cider Solar LLC,Cider Solar,4/3/19,800,800,S,Genesee,NY,A,Kintigh - Niagara 345kV,NYSEG,5,9/30/19,,,08/2023,10/2023,12/2023
+0812,Diamond Generating Corporation,CWW 200 Wind,4/3/19,200,200,W,Erie,NY,A,Harbor Front 115kV,NM-NG,3,1/31/20,,,12/2023,12/2023,12/2023
+0813,Diamond Generating Corporation,CWW 300 Wind,4/3/19,300,300,W,Erie,NY,A,Harbor Front 115kV,NM-NG,3,1/31/20,,,12/2023,12/2023,12/2023
+0814,Diamond Generating Corporation,CWW 300 MW DUN,4/3/19,300,300,W,Chautauqua,NY,A,Dunkirk Substation 230kV,NM-NG,3,1/31/20,,,12/2023,12/2023,12/2023
+0815,Bayonne Energy Center,Bayonne Energy Center III,4/5/19,49.8,49.8,ES,Kings,NY,J,Gowanus Substation 345kV,ConEd,5,12/31/19,,,08/2022,01/2021,02/2021
+0816,LIPA,NNC TTC Increase,4/5/19,N/A,N/A,AC,Suffolk,NY,K,Northport Substation 138kV,LIPA,4,12/31/19,,,12/2023,N/A,N/A
+0822,Astoria Generating Company LP,Narrows Generating Barge Battery Energy Storage,4/15/19,58,58,ES,Kings,NY,J,Narrows Barge Feeder 23162,ConEd,5,9/30/19,,,07/2022,09/2022,12/2022
+0823,"Wildwood Energy Storage, LLC",Wildwood Energy Storage,4/15/19,116.7,116.7,ES,Suffolk,NY,K,Wildwood Substation 138kV,LIPA,4,1/31/20,FES,,09/2022,10/2022,12/2022
+0824,"Wildwood Energy Storage, LLC",Wildwood Shoreham Energy Storage,4/15/19,76.9,76.9,ES,Suffolk,NY,K,Shoreham Substation 69kV,LIPA,4,1/31/20,FES,,10/2022,11/2022,12/2022
+0825,"Setauket Energy Storage, LLC",Setauket Energy Storage,4/15/19,76.9,76.9,ES,Suffolk,NY,K,Port Jefferson - Terryville 69kV,LIPA,4,1/31/20,FES,,12/2021,11/2021,12/2021
+0826,NRG Astoria Storage LLC,Astoria Energy Storage 1,4/18/19,66,66,ES,Queens,NY,J,North Queens 27kV Bus,ConEd,4,6/30/19,,,05/2022,08/2022,12/2021
+0827,NRG Arthur Kill Storage LLC,Arthur Kill Energy Storage 1,4/22/19,15,15,ES,Richmond,NY,J,Fresh Kills 13.8kV,ConEd,5,1/31/20,,,05/2022,08/2022,10/2022
+0828,SED NY Holdings LLC,Valley Solar,4/24/19,20,20,S,Tioga,NY,C,Owego 34.5kV Substation,NYSEG,5,12/31/19,,,10/2021,11/2021,11/2021
+0830,NRG Astoria Storage LLC,Astoria Energy Storage 2,4/26/19,79.9,79.9,ES,Queens,NY,J,Astoria West 138kV Substation,ConEd,5,12/31/19,,,01/2024,04/2024,06/2024
+0832,"Granada Solar, LLC",CS Hawthorn Solar,5/6/19,20,20,S,Rensselaer,NY,F,North Troy - Hoosick 115kV,NM-NG,3,12/31/19,,,10/2020,11/2020,12/2020
+0833,"Granada Solar, LLC",CS Dolan Solar,5/6/19,20,20,S,Washington,NY,F,Battenkill - Mohican 115kV,NM-NG,5,12/31/19,,,10/2020,11/2020,12/2020
+0834,"Astoria Generating Company, LP",Parking Lot Battery Energy Storage,5/7/19,79,79,ES,Queens,NY,J,Astoria West Substation 138kV,ConEd,4,6/30/19,,,09/2022,10/2022,11/2022
+0835,"Astoria Generating Company, LP",Dock Battery Energy Storage,5/7/19,56.3,57.3,ES,Queens,NY,J,Astoria West Substation 138kV,ConEd,4,6/30/19,,,09/2022,10/2022,11/2022
+0840,Hecate Grid Swiftsure LLC,Swiftsure Energy Storage,5/9/19,650,650,ES,Richmond,NY,J,Fresh Kills 345kV Substation,ConEd,5,12/31/19,,,05/2022,06/2022,06/2022
+0841,"TJA Clean Energy, LLC",Sharon Springs Interconnection,5/10/19,20,20,S,Schoharie,NY,F,Sharon - Cobleskill 69kV Substation,NM-NG,3,1/31/20,,,06/2021,05/2022,06/2022
+0843,"Boralex US Development, LLC",NY37 Solar,5/17/19,20,20,S,Jefferson,NY,E,Coffeen - West Adams 115kV Substation,NM-NG,5,12/31/19,,,10/2022,11/2022,12/2022
+0844,"Boralex US Development, LLC",NY37 Energy Storage,5/17/19,4,4,ES,Jefferson,NY,E,Coffeen - West Adams 115kV Substation,NM-NG,5,12/31/19,,,10/2022,11/2022,12/2022
+0845,"sPower Development Company, LLC",Bloom Energy Storage Center,5/20/19,120,120,ES,Kings,NY,J,Farragut 345kV Substation,ConEd,2,9/30/19,,,10/2023,10/2023,12/2023
+0846,"sPower Development Company, LLC",Rescue Energy Storage Center,5/20/19,300,300,ES,New York,NY,J,East 13th Street 138kV Substation,ConEd,2,7/31/19,,,10/2023,10/2023,12/2023
+0847,"sPower Development Company, LLC",Chelsea Energy Storage Center,5/20/19,300,300,ES,New York,NY,J,West 49th St Substation 345kV,ConEd,2,7/31/19,,,10/2023,10/2023,12/2023
+0848,SED NY Holdings LLC,Fairway Solar,5/20/19,20,20,S,St. Lawrence,NY,E,McIntyre - Colton 115kV Substation,NM-NG,5,12/31/19,,,10/2021,11/2021,11/2021
+0849,"Somerset Operating Company, LLC",Somerset Load,5/21/19,250,250,L,Niagara,NY,A,Kintigh 345kV,NYSEG,4,6/30/19,,,08/2020,N/A,N/A
+0850,"Cayuga Operating Company, LLC",Cayuga Load,5/21/19,50,50,L,Cayuga,NY,C,Milliken Substation,NYSEG,4,6/30/19,,,10/2020,N/A,N/A
+0852,"Niagara Dolomite Solar, LLC",Niagara Dolomite Solar,5/24/19,360,360,S,Niagara,NY,A,Robinson Rd - Stolle Rd 230kV,NYSEG,3,12/31/19,,,09/2022,09/2022,10/2022
+0853,"Boralex US Development, LLC",NY16 Solar,5/24/19,19.9,19.9,S,Washington,NY,F,Mohican - Schaghticoke 115kV,NM-NG,5,12/31/19,,,09/2023,10/2023,11/2023
+0855,"Boralex US Development, LLC",NY13 Solar,5/24/19,19.9,19.9,S,Washington,NY,F,Mohican - Schaghticoke 115kV,NM-NG,5,12/31/19,,,09/2023,10/2023,11/2023
+0857,"EDF Renewables Development, Inc.",Columbia Solar Energy Center,5/28/19,350,350,S,Herkimer,NY,E,Edic - Marcy 345kV,NYPA,3,12/31/19,,,09/2024,10/2024,10/2024
+0858,"EDF Renewables Development, Inc.",Genesee Road Solar Energy Center,5/28/19,350,350,S,Erie,NY,A,Stolle Rd - Five Mile Rd 345kV,NYSEG,4,12/31/19,,,09/2024,10/2024,10/2024
+0859,"EDF Renewables Development, Inc.",Ridge View Solar Energy Center,5/28/19,350,350,S,Niagara,NY,A,Somerset - Dysinger 345kV,NYSEG,4,7/31/19,,,09/2024,10/2024,10/2024
+0860,"EDF Renewables Development, Inc.",Rosalen Solar Energy Center,5/28/19,350,350,S,Steuben,NY,E,Edic - Fraser 345kV,NYPA,3,12/31/19,,,09/2024,10/2024,10/2024
+0861,"Mitsubishi Hitachi Power Systems Americas, Inc.",Tonawanda Solar,5/29/19,20,20,S,Niagara,NY,B,Lockport - Batavia 115kV,NM-NG,3,1/31/20,,,04/2021,04/2021,05/2021
+0862,"Mitsubishi Hitachi Power Systems Americas, Inc.",Farwell Solar,5/29/19,20,20,S,Orleans,NY,B,Lockport - Mortimer 115kV,NM-NG,3,1/31/20,,,04/2021,04/2021,05/2021
+0863,"Mitsubishi Hitachi Power Systems Americas, Inc.",Coverdale Solar,5/29/19,20,20,S,Livingston,NY,C,Highbanks - South Perry 115kV,NYSEG,5,1/31/20,,,04/2021,04/2021,05/2021
+0864,"Boralex US Development, LLC",NY38 Solar,5/29/19,120,120,S,Jefferson,NY,E,Coffeen - East Watertown 115kV,NM-NG,5,1/31/20,,,01/2024,02/2024,03/2024
+0865,SED NY Holdings LLC,Flat Hill Solar,5/31/19,20,20,S,Herkimer,NY,E,Inghams - Little Falls Hydro Plant,NM-NG,5,1/31/20,,,10/2021,11/2021,11/2021
+0866,"RES Americas Developments, Inc.",North Country Wind,6/3/19,298.2,298.2,W,Franklin,NY,D,Willis Substation 230kV,NYPA,2,7/31/19,,,09/2023,09/2023,12/2023
+0869,SED NY Holdings LLC,Tabletop Solar,6/4/19,80,80,S,Montgomery,NY,F,Clinton Substation 115kV,NM-NG,3,12/31/19,,,09/2022,09/2022,10/2022
+0871,Invenergy Solar Project Development LLC,Verona Solar Energy Center I,6/5/19,250,250,S,Oneida,NY,C,Clay - Edic 345kV,NYPA,3,1/31/20,,,10/2023,10/2023,12/2023
+0873,Invenergy Solar Project Development LLC,Verona Solar Energy Center II,6/5/19,250,250,S,Oneida,NY,C,Clay - Edic 345kV,NYPA,3,1/31/20,,,10/2023,10/2023,10/2023
+0875,"SL Portland, LLC",SL Portland Solar,6/6/19,19.9,19.9,S,Chautauqua,NY,A,Dunkirk - Falconer 115 kV,NM-NG,2,9/30/19,,,12/2020,12/2020,12/2020
+0877,"SL York, LLC",SL York Solar,6/6/19,19.9,19.9,S,Livingston,NY,B,Golah - S. Perry 115 kV,NM-NG,4,1/31/20,,,12/2020,12/2020,12/2020
+0878,"Energy Storage Resources, LLC",Pirates Island,6/10/19,100,100,ES,Erie,NY,A,Huntley - Elm 115kV,NM-NG,5,12/31/19,,,01/2022,02/2022,04/2022
+0879,Empire Community Solar LLC,Holley Road Solar,6/10/19,19.9,19.9,S,Orleans,NY,B,Lockport - Mortimer 115kV,NM-NG,3,1/31/20,,,09/2021,11/2021,11/2021
+0880,"Brookside Solar, LLC",Brookside Solar,6/10/19,100,100,S,Franklin,NY,D,Chateaugay Substation,NYSEG,4,2/29/20,,,07/2023,09/2023,11/2023
+0881,"New Bremen Solar, LLC",New Bremen Solar,6/10/19,100,100,S,Lewis,NY,E,Bremen - Lowville 115kV,NM-NG,3,12/31/19,,,07/2023,09/2023,11/2023
+0882,"Riverside Solar, LLC",Riverside Solar,6/10/19,100,100,S,Jefferson,NY,E,Lyme Substation 115kV,NM-NG,3,12/31/19,,,07/2023,09/2023,11/2023
+0883,"North Park Energy, LLC",Garnet Energy Center,6/11/19,200,200,S,Cayuga,NY,B,Pannell - Clay 345kV,NYPA,4,8/31/19,,,08/2023,09/2023,11/2023
+0885,SED NY Holdings LLC,Grassy Knoll Solar,6/12/19,20,20,S,Herkimer,NY,E,Watkins Rd - Inghams 115kV,NM-NG,5,12/31/19,,,10/2021,11/2021,11/2021
+0887,TDI-USA Holdings Corp.,CH Uprate,6/12/19,250,250,DC,Quebec-NY,NY,J,Astoria Annex Substation 345kV,NYPA,5,1/31/20,,,10/2026,10/2026,12/2026
+0892,FourGen LLC,Holtsville Fuel Cell,7/15/19,20,20,FC,Suffolk,NY,K,Holtsville 69kV,LIPA,4,12/31/19,,,06/2020,06/2020,06/2020
+0893,FourGen LLC,Setauket Fuel Cell,7/15/19,20,20,FC,Suffolk,NY,K,Terryville Substation 8kV,LIPA,4,12/31/19,,,06/2020,06/2020,06/2020
+0894,"Montgomery Energy Storage 1, LLC",Montgomery Energy Storage,7/15/19,20,20,ES,Orange,NY,G,Walden - Montgomery 69kV,CHG&E,2,12/31/19,,,01/2020,01/2020,01/2020
+0899,"Sithe/Independence Power Partners, LP",Scriba-Volney Series Reactor,8/2/19,N/A,N/A,AC,Oswego,NY,C,Volney - Scriba 345 kV,NM-NG,2,12/31/19,,,05/2021,N/A,N/A
+0901,"TJA Clean Energy, LLC",Lacona Solar,8/16/19,20,20,S,Oswego,NY,C,Lighthouse Hill - Black River 115kV,NM-NG,4,2/29/20,,,10/2021,09/2022,10/2022
+0902,"sPower Development Company, LLC",Yacht Club Energy Storage,8/16/19,300,300,ES,New York,NY,J,Gowanus 345kV,ConEd,3,1/31/20,,,10/2022,11/2022,12/2022
+0903,"sPower Development Company, LLC",Goethals Energy Storage,8/16/19,300,300,ES,New York,NY,J,Goethals 345kV,ConEd,3,1/31/20,,,10/2022,11/2022,12/2022
+0907,174 Power Global,Harlem River Yard,9/4/19,116,116,ES,New York,NY,J,Hell Gate 138kV,ConEd,4,2/29/20,,,10/2022,10/2022,12/2022
+0909,"PetaWatt Holdings, Inc.",Massena Load,9/18/19,100,100,L,St. Lawrence,NY,E,Dennison 115kV substation,NM-NG,4,10/31/19,,,12?2020,,
+0911,Dimension NY 1 LLC,NY-19-0027 - Greenport Group LLC,10/1/19,20,20,ES,Suffolk,NY,K,Peconic - Southold 69kV,LIPA,4,2/29/20,,,05/2022,05/2022,05/2022
+0912,Hecate Grid Intrepid 1 LLC,Intrepid Storage 69,10/2/19,50,50,ES,Nassau,NY,K,EF Barrett 69kV Substation,LIPA,1,12/31/19,,,10/2021,10/2021,10/2021
+0913,SED NY Holdings LLC,SunEast Manchester Solar LLC,10/4/19,20,20,S,Wayne,NY,B,Hooks Rd - Elbridge 115kV,NM-NG,1,12/31/19,,,06/2021,07/2021,07/2021
+0914,"sPower Development Company, LLC",Loomis Creek Solar,10/7/19,100,100,S,Columbia,NY,F,Churchtown Substation 115 kV,NYSEG,1,11/30/19,,,10/2022,11/2022,12/2022
+0916,"EDF Renewables Development, Inc.",Hartley Battery Storage,10/7/19,20,20,ES,Orange,NY,G,Hartley Road Substation 69kV,O&R,1,2/29/20,,,11/2022,11/2022,12/2022
+0917,"sPower Development Company, LLC",Loomis Creek ES,10/7/19,50,50,ES,Columbia,NY,F,Churchtown Substation 115 kV,NYSEG,2,2/29/20,,,10/2022,11/2022,12/2022
+0919,"sPower Development Company, LLC",White Spring ES,10/10/19,100,100,ES,Ontario,NY,B,Haley Road Substation 115 kV,NYSEG,1,11/30/19,,,10/2022,11/2022,12/2022
+0920,"sPower Development Company, LLC",White Spring Solar,10/10/19,200,200,S,Ontario,NY,B,Haley Road Substation 115 kV,NYSEG,1,11/30/19,,,10/2022,11/2022,12/2022
+0921,"sPower Development Company, LLC",Line Creek ES,10/10/19,30,30,ES,Schoharie,NY,F,Schoharie 69 kV,NM-NG,1,11/30/19,,,10/2022,11/2022,12/2022
+0922,"sPower Development Company, LLC",Line Creek Solar,10/10/19,50,50,S,Schoharie,NY,F,Schoharie 69 kV,NM-NG,1,11/30/19,,,10/2022,11/2022,12/2022
+0923,"sPower Development Company, LLC",Far Rockaway Energy Storage Center,10/11/19,150,150,ES,Queens,NY,K,Far Rockaway Substation 69 kV,LIPA,1,11/30/19,,,10/2022,11/2022,12/2022
+0924,RICAL LLC,CBB,10/15/19,115,115,ES,Dutchess,NY,G,Shenandoah Substation,CHGE/ConEd,1,11/30/19,,,10/2021,01/2022,05/2022
+0925,Hecate Grid Clermont 1 LLC,Clermont 1,10/17/19,100,100,ES,Suffolk,NY,K,West Babylon 69kV Substation,LIPA,4,2/29/20,,,10/2021,10/2021,10/2021
+0928,JERA Americas Inc.,Willow Bay Energy Storage,10/21/19,40,40,ES,Richmond,NY,J,Fox Hills Substation 33kV,ConEd,1,11/30/19,,,08/2022,08/2022,09/2022
+0929,"EDF Renewables Development, Inc.",Morris Ridge Battery Storage,10/22/19,83,83,ES,Livingston,NY,C,South Perry - Meyer 230 kV,NYSEG,4,2/29/20,,,11/2023,11/2023,12/2023
+0930,"Astoria Generating Co., LP",Astoria BES to 27kV North Queens,10/25/19,15,15,ES,Queens,NY,J,North Queens Substation 27kV,ConEd,1,12/31/19,,,09/2021,11/2021,12/2021
+0931,Hanwha Energy USA Holdings d/d/a/ 174 Power Global,Astoria Energy Storage,10/28/19,100,100,ES,Queens,NY,J,Astoria Substation 138kV,ConEd,4,2/29/20,,,10/2022,10/2022,12/2022
+0933,"Seven Creek Energy, LLC",Seven Creek Energy - Squab Hollow,10/31/19,290,290,ES,Elk,PA,A,Homer City - Pierce Brook 345kV,NYSEG,1,12/31/19,,,01/2023,03/2023,05/2023
+0934,Saturn Energy Storage LLC,Astoria BESS,10/31/19,70,68.6,ES,Queens,NY,J,Astoria West Substation 138 kV,ConEd,4,2/29/20,,,06/2022,06/2022,11/2022
+0935,SED NY Holdings LLC,SunEast Oriskany Solar LLC,11/1/19,20,20,S,Oneida,NY,E,Oriskany Falls Substation 46kV,NYSEG,1,11/3019,,,09/2021,10/2021,12/2021
+0937,"Boralex US Development, LLC",NYSD Energy Storage,11/4/19,5.5,5.5,ES,Saratoga,NY,F,Mechanicville 34.5 kV,NM-NG,1,12/31/19,,,11/2020,10/2020,11/2020
+0938,"KCE NY 12, LLC",KCE NY 12,11/4/19,100,100,ES,Suffolk,NY,K,Moriches Substation 69kV,LIPA,4,2/29/20,,,11/2021,11/2021,12/2021
+0939,National Grid Generation LLC,Far Rockaway Power Station Battery Energy Storage System (BESS),11/5/19,30,30,ES,Queens,NY,K,Far Rockaway Substation 69kV,LIPA,4,2/29/20,,,10/2022,10/2022,12/2022
+0940,National Grid Generation LLC,Glenwood Power Station Battery Energy Storage System,11/8/19,50,50,ES,Nassau,NY,K,Glenwood Substation 138kV,LIPA,1,12/31/19,,,10/2022,10/2022,12/2022
+0941,National Grid Generation LLC,Southampton Power Station Battery Energy Storage System (BESS),11/8/19,30,30,ES,Suffolk,NY,K,Southampton Substation 69kV,LIPA,1,12/31/19,,,10/2022,10/2022,12/2022
+0942,"KCE NY 21, LLC",KCE NY 21,11/8/19,60,60,ES,Suffolk,NY,K,Deposit - Indian Head 69kV,LIPA,4,2/29/20,,,11/2021,11/2021,12/2021
+0944,Invenergy Solar Development LLC,Verona Storage,11/12/19,100,100,ES,Oneida,NY,C,Edic-Clay 345kV Line,NYPA,1,2/29/20,,,10/2020,10/2020,12/2020
+0945,"Niagara Grid I, LLC",Niagara Grid I,11/13/19,20,20,ES,Erie,NY,A,Sawyer 23kV,NM-NG,1,1/31/20,,,07/2022,07/2022,09/2022
+0947,Dimension NY 1 LLC,Minnehan,11/16/19,11.3,11.3,ES,Livingston,NY,B,North Lakeville Substation 34.5kV,NM-NG,1,12/31/19,,,10/2022,10/2022,10/2022
+0948,Dimension NY 1 LLC,Casciani,11/18/19,8.8,8.8,ES,Monroe,NY,B,34.5 kV,RG&E,1,1/31/20,,,12/2022,12/2022,12/2022
+0949,National Grid Generation LLC,Port Jefferson Power Station Battery Energy Storage System (BESS),11/19/19,100,100,ES,Suffolk,NY,K,Port Jefferson Substation 138kV,LIPA,1,12/31/19,,,10/2022,10/2022,12/2022
+0950,Orleans Solar LLC,Orleans Solar,11/21/19,200,200,S,Orleans,NY,"A, B",Lockport - Mortimer,NM-NG,4,2/29/20,,,12/2022,11/2022,12/2022
+0951,"Cayuga Grid, LLC","Cayuga Grid, LLC",12/4/19,100,100,ES,Erie,NY,A,New Gardenville 115kV Substation,NYSEG,1,1/31/20,,,09/2022,09/2022,09/2022
+0952,"Catskill Grid, LLC","Catskill Grid, LLC",12/4/19,100,100,ES,Greene,NY,G,North Catskill - Milan 115kV line,CHGE,1,12/31/19,,,09/2022,09/2022,09/2022
+0953,"Sugar Maple Solar, LLC",Sugar Maple Solar,12/5/19,165.1,174.8,S,Lewis,NY,E,Coffeen St - Taylorville 115kV,NM-NG,1,12/31/19,,,08/2023,10/2023,12/2023
+0954,"Empire Solar, LLC",Empire Solar,12/5/19,157.9,150,S,Westfield,NY,A,South Ripley - Dunkirk 230 kV,NM-NG,1,12/31/19,,,08/2023,10/2023,12/2023
+0956,Holbrook Energy Storage,Holbrook Energy Storage,12/10/19,294.9,296.4,ES,Suffolk,NY,K,Holbrook Substation 138 kV ,LIPA,1,1/31/20,,,03/2023,04/2023,05/2023
+0957,Holtsville Energy Storage,Holtsville Energy Storage,12/10/19,109.8,109.8,ES,Suffolk,NY,K,Holtsville Substation 138 kV ,LIPA,1,1/31/20,,,03/2023,04/2023,05/2023
+0958,Equinor Wind US,Oceanside Energy,12/10/19,1000,1000,W,Nassau,NY,K,Barrett 138 kV Substation,LIPA,4,2/29/20,,,06/2023,08/2023,12/2024
+0959,Equinor Wind US,Oceanside Energy Phase II,12/11/19,1500,1500,W,Nassau,NY,K,Barrett 138 kV Substation,LIPA,4,2/29/20,,,06/2023,08/2023,12/2024
+0960,"SWEB Development USA, LLC",Cobleskill Solar Project,12/12/19,19.8,19.8,S,Schoharie,NY,F,Cobleskill - Schoharie 69kV,NM-NG,1,1/31/20,,,12/2022,11/2022,12/2022
+0962,Brookfield Power US Asset Management LLC,Beardslee Solar,12/19/19,20,20,S,Herkimer,NY,E,St. Johnsville - Inghams 115kV,NM-NG,1,2/29/20,,,10/2022,11/2022,12/2022
+0965,"Yaphank Energy Storage, LLC",Yaphank Energy Storage,12/21/19,76.8,77.6,ES,Suffolk,NY,K,William Floyd - Brookhaven 69kV,LIPA,1,1/31/20,,,03/2023,04/2023,05/2023
+0966,"Suffolk County Energy Storage, LLC",Suffolk County Storage,12/21/19,55,55,ES,Suffolk,NY,K,West Babylon Substation 69kV,LIPA,1,1/31/20,,,03/2023,04/2023,05/2023
+0967,KCE NY 5 LLC,KCE NY 5,12/27/19,150,150,ES,Ulster,NY,G,Roseton - Hurley Ave 345kV,CHGE,1,2/29/20,,,10/2022,10/2022,10/2022
+0968,SED NY Holdings LLC,Gouverneur Solar Project,1/9/20,20,20,S,St. Lawrence,NY,E,North Gouverneur - Battle Hill 115kV,NM-NG,1,1/31/20,,,06/2022,07/2022,08/2022
+0971,"Savion, LLC",East Setauket Energy Storage,1/10/20,297.9,300.9,ES,Suffolk,NY,K,Holbrook-Miller Place 138kV,LIPA,1,1/31/20,,,03/2024,04/2024,05/2024
+0974,KCE NY 19 LLC,KCE NY 19,1/14/20,80,80,ES,Orange,NY,G,Sugarloaf - Wisner 69kV,O&R,1,1/31/20,,,05/2022,05/2022,06/2022
+0977,Dimension NY 1 LLC,Umscheid,1/16/20,6.6,6.6,ES,Dutchess,NY,G,Pawling - Haviland Hollow 46kV,NYSEG,1,1/31/20,,,06/2022,06/2022,06/2022
+0979,North Country Data Center,Load Increase at North Country Data Center (Former Reynolds Substation) to 435MW,1/22/20,,,L,St. Lawrence County,NY,E,Reynolds Substation,NYPA,1,2/29/20,,,10/2020,,
+0980,Invenergy Storage Development LLC,Heritage Storage,1/22/20,8,8,ES,Erie,NY,A,Erie 34.5kV Substation,NYSEG,1,2/29/20,,,10/2021,10/2021,12/2022
+0982,National Grid Generation LLC,West Babylon Power Station Battery Energy Storage System,1/22/20,50,50,ES,Suffolk,NY,K,West Babylon 69kV Substation,LIPA,1,2/29/20,,,10/2022,10/2022,12/2022
+0987,Bay State Wind,NY Wind Holbrook 2,1/29/20,924,924,W,Suffolk,NY,K,Holbrook 138kV,LLIPA,1,2/29/20,,,01/2023,04/2024,05/2024
+0992,"KCE NY 25, LLC",KCE NY 25,1/31/20,6,6,ES,Ontario,NY,B,Station 146 34.5kV ,RG&E,1,2/29/20,,,09/2022,09/2022,10/2022

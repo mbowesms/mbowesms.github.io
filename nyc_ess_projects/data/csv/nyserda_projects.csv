@@ -1,0 +1,30 @@
+﻿project_id,system_id,facility_id,facility_name,project_name,cod,year,month,year-month,kw,kwh,hr,technology,developer,installed,value_streams,nyserda_funded
+567,620,635,Glenwood - Liberty Plaza,,August 2016,2016,8,2016-8,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,TRUE
+568,621,636,Glenwood - Emerald Green,,August 2016,2016,8,2016-8,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,TRUE
+569,622,637,Glenwood - Barclay Tower,,June 2013,2013,6,2013-6,225,2000,8.89,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+570,623,638,Glenwood - The Brittany,,August 2016,2016,8,2016-8,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,TRUE
+571,624,639,Glenwood - The Barclay,,August 2016,2016,8,2016-8,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,TRUE
+572,625,640,Glenwood - Paramount Tower,,July 2015,2015,7,2015-7,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,TRUE
+573,409,422,Marcus Garvey Apartments,,June 2017,2017,6,2017-6,300,1200,4.00,Li-ion,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed BQDM; Demand Charge Reduction,FALSE
+574,626,641,NYC Health + Hospitals/Jacobi Campus,NYC Health + Hospitals/Jacobi Campus,,2017,11,2017-11,100,400,4.00,Ni-Fe,UniEnergy Technologies,1,Demand Charge Reduction,FALSE
+575,627,642,Glenwood - Crystal Green,,December 2017,2017,12,2017-12,125,300,2.40,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+576,628,643,Glenwood - The Bristol,,2016,2016,7,2016-7,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+577,629,644,Glenwood - The Lucerne,,2017,2017,7,2017-7,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+578,630,645,Glenwood - Grand Tier,,2017,2017,7,2017-7,100,400,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+579,631,646,Glenwood - Briar Hill,,2017,2017,7,2017-7,125,200,1.60,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+580,632,647,Glenwood - Hawthorn Park,,December 2017,2017,12,2017-12,125,500,4.00,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+581,633,648,Glenwood - The Fairmont,,December 2017,2017,12,2017-12,125,300,2.40,VRLA,"Enel X (fka Demand Energy, EnerNOC)",1,Con Ed Demand Mgt Program; Demand Charge Reduction,FALSE
+583,636,650,7-Eleven,7-Eleven,October 2013,2013,10,2013-10,27.2,96,3.53,Li-ion,ENGIE Storage (fka Green Charge),1,Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting; EV Charging,FALSE
+584,637,651,UPS Distribution Center,UPS A,October 2014,2014,10,2014-10,51,96,1.88,Li-ion,ENGIE Storage (fka Green Charge),1,Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,TRUE
+585,637,651,UPS Distribution Center,UPS B,October 2014,2014,10,2014-10,51,96,1.88,Li-ion,ENGIE Storage (fka Green Charge),1,Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,FALSE
+586,637,651,UPS Distribution Center,UPS C,October 2014,2014,10,2014-10,51,96,1.88,Li-ion,ENGIE Storage (fka Green Charge),1,Demand Charge Reduction; Energy Supply Arbitrage - Energy Shifting,FALSE
+615,666,681,Red Hook Recreation Center,Red Hook Recreation Center,2015,2015,7,2015-7,6,21,3.50,VRLA,Global Green,1,Coupled with Distr. Gen.; Resiliency,FALSE
+694,737,750,Brooklyn Army Terminal,Brooklyn Army Terminal Demo,April 2014,2014,4,2014-4,100,720,7.20,VRLA,Princeton Power Systems,1,Demand Response Programs; Resiliency,FALSE
+898,933,938,Con Edison BQDM Utility Sided Solution,,"Nov 1, 2018",2018,11,2018-11,2000,12000,6.00,Li-ion,Consolidated Edison Solutions,1,Con Ed BQDM; Utility Peak Reduction,FALSE
+945,978,981,Via Verde,Via Verde,May 2019,2019,5,2019-5,18,144,8.00,Li-ion,Bright Power,1,Coupled with Distr. Gen.; Demand Charge Reduction; Resiliency,FALSE
+1093,1120,1122,Home A in zip code 10504,,"Mar 25, 2019",2019,3,2019-3,10,0,0.00,Li-ion,"Tesla Energy Operations, Inc.",1,,FALSE
+1187,1204,1206,Facility A in 10031,,"Mar 31, 2014",2014,3,2014-3,100,0,0.00,Zn-Mg,Urban Electric Power,1,,FALSE
+1312,1326,1328,Facility A in zip code 10471,,"Nov 29, 2018",2018,11,2018-11,0,0,#DIV/0!,NA,Green Power Solutions,1,,FALSE
+1331,1345,489,Gateway Center,Gateway Plaza 1,June 2019,2019,6,2019-6,4800,16440,3.43,Li-ion,EnerNOC (now Enel X),1,Utility Peak Reduction,TRUE
+1332,1346,489,Gateway Center,Gateway Plaza 2,June 2019,2019,6,2019-6,0,0,#DIV/0!,Li-ion,EnerNOC (now Enel X),1,Utility Peak Reduction,TRUE
+,,,,,,,,,,,,,,,,
