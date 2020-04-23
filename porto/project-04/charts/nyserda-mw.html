@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+</head>
+
+<!-- BODY -->
+<body>
+    <div id="container"></div>
+</body>
+
+<!-- Highcharts script -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var myChart = Highcharts.chart('container', {
+            chart: {
+                type: 'column'
+            },
+            title: {
+                text: '<b>NYSERDA Energy Storage Power Capacity (MW)</b>'
+            },
+            subtitle: {
+                text: 'Source: NYSERDA DER Integrated Data System'
+            },
+            credits: {
+                enabled: false
+            },  
+            yAxis: {
+                title: {
+                    text: 'Project Count',
+                    enabled: false
+                }
+            },
+            xAxis: {
+                categories: [2013, 2014, 2015, 2016, 2017, 2018, 2019]
+            },
+
+            // Series
+            series: [{
+                name: 'MW per Year',
+                data: [.2522,.253,.106,.5,1,2,.018],
+                color: '#F9AC54'
+            }, {
+                name: 'Total MW Installed',
+                data: [.2522,.5052,.6112,1.1112,2.1112,4.1112,4.1292],
+                color: '#DE6449'
+            }
+        ]
+        });
+    });
+
+</script>
+
+</html>
